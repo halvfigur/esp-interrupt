@@ -1,0 +1,1567 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-layout" width="255" height="292.5" viewBox="0 0 255 292.5"><style type="text/css">
+#svg-layout text {
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
+}
+
+#svg-layout .wireGroup {
+  stroke: #2d3142;
+  stroke-width: 2;
+  stroke-linecap: round;
+  fill: none;
+}
+
+#svg-layout .wireGroup.wire-color-metal path {
+  stroke: #7b7d86;
+}
+#svg-layout .wireGroup.wire-color-black path {
+  stroke: #2d3142;
+}
+#svg-layout .wireGroup.wire-color-red path {
+  stroke: #e86b59;
+}
+#svg-layout .wireGroup.wire-color-white path {
+  stroke: #f0f0f0;
+}
+#svg-layout .wireGroup.wire-color-yellow path {
+  stroke: #fbdd71;
+}
+#svg-layout .wireGroup.wire-color-orange path {
+  stroke: #f7a541;
+}
+#svg-layout .wireGroup.wire-color-brown path {
+  stroke: #bf6030;
+}
+#svg-layout .wireGroup.wire-color-gray path {
+  stroke: #a4a7b3;
+}
+#svg-layout .wireGroup.wire-color-green path {
+  stroke: #67b262;
+}
+#svg-layout .wireGroup.wire-color-purple path {
+  stroke: #614d99;
+}
+#svg-layout .wireGroup.wire-color-blue path {
+  stroke: #2297bf;
+}
+
+</style><g class="circuit-contents layout" transform="translate(-2265, -2200)"><g data-source-id="zo97afp1znnwu97cgv9" data-source-name="Breadboard Half" data-variant-group="breadboard" class="keep-bottom no-wire-dragging component" data-width="157.5" data-height="247.5" id="part_0" transform="translate(2355,2207.5) scale(1,1) rotate(0,0,0)"><rect class="helper-box" x="2.5" y="2.5" width="152.5" height="242.5" fill="none"/>
+ <rect x="2.5" y="2.5" width="152.5" height="242.5" rx="2" ry="2" fill="#e7e8eb"/>
+ <circle class="connection_point" cx="12.5" cy="17.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin1"/>
+ <circle class="connection_point" cx="20" cy="17.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin2"/>
+ <circle class="connection_point" cx="12.5" cy="25" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin3"/>
+ <circle class="connection_point" cx="20" cy="25" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin4"/>
+ <circle class="connection_point" cx="12.5" cy="32.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin5"/>
+ <circle class="connection_point" cx="20" cy="32.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin6"/>
+ <circle class="connection_point" cx="12.5" cy="40" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin7"/>
+ <circle class="connection_point" cx="20" cy="40" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin8"/>
+ <circle class="connection_point" cx="12.5" cy="47.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin9"/>
+ <circle class="connection_point" cx="20" cy="47.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin10"/>
+ <circle class="connection_point" cx="12.5" cy="62.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin11"/>
+ <circle class="connection_point" cx="20" cy="62.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin12"/>
+ <circle class="connection_point" cx="12.5" cy="70" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin13"/>
+ <circle class="connection_point" cx="20" cy="70" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin14"/>
+ <circle class="connection_point" cx="12.5" cy="77.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin15"/>
+ <circle class="connection_point" cx="20" cy="77.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin16"/>
+ <circle class="connection_point" cx="12.5" cy="85" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin17"/>
+ <circle class="connection_point" cx="20" cy="85" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin18"/>
+ <circle class="connection_point" cx="12.5" cy="92.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin19"/>
+ <circle class="connection_point" cx="20" cy="92.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin20"/>
+ <circle class="connection_point" cx="12.5" cy="107.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin21"/>
+ <circle class="connection_point" cx="20" cy="107.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin22"/>
+ <circle class="connection_point" cx="12.5" cy="115" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin23"/>
+ <circle class="connection_point" cx="20" cy="115" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin24"/>
+ <circle class="connection_point" cx="12.5" cy="122.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin25"/>
+ <circle class="connection_point" cx="20" cy="122.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin26"/>
+ <circle class="connection_point" cx="12.5" cy="130" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin27"/>
+ <circle class="connection_point" cx="20" cy="130" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin28"/>
+ <circle class="connection_point" cx="12.5" cy="137.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin29"/>
+ <circle class="connection_point" cx="20" cy="137.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin30"/>
+ <circle class="connection_point" cx="12.5" cy="152.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin31"/>
+ <circle class="connection_point" cx="20" cy="152.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin32"/>
+ <circle class="connection_point" cx="12.5" cy="160" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin33"/>
+ <circle class="connection_point" cx="20" cy="160" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin34"/>
+ <circle class="connection_point" cx="12.5" cy="167.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin35"/>
+ <circle class="connection_point" cx="20" cy="167.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin36"/>
+ <circle class="connection_point" cx="12.5" cy="175" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin37"/>
+ <circle class="connection_point" cx="20" cy="175" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin38"/>
+ <circle class="connection_point" cx="12.5" cy="182.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin39"/>
+ <circle class="connection_point" cx="20" cy="182.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin40"/>
+ <circle class="connection_point" cx="12.5" cy="197.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin41"/>
+ <circle class="connection_point" cx="20" cy="197.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin42"/>
+ <circle class="connection_point" cx="12.5" cy="205" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin43"/>
+ <circle class="connection_point" cx="20" cy="205" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin44"/>
+ <circle class="connection_point" cx="12.5" cy="212.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin45"/>
+ <circle class="connection_point" cx="20" cy="212.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin46"/>
+ <circle class="connection_point" cx="12.5" cy="220" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin47"/>
+ <circle class="connection_point" cx="20" cy="220" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin48"/>
+ <circle class="connection_point" cx="12.5" cy="227.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin49"/>
+ <circle class="connection_point" cx="20" cy="227.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin50"/>
+ <circle class="connection_point" cx="137.5" cy="17.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin51"/>
+ <circle class="connection_point" cx="145" cy="17.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin52"/>
+ <circle class="connection_point" cx="137.5" cy="25" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin53"/>
+ <circle class="connection_point" cx="145" cy="25" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin54"/>
+ <circle class="connection_point" cx="137.5" cy="32.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin55"/>
+ <circle class="connection_point" cx="145" cy="32.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin56"/>
+ <circle class="connection_point" cx="137.5" cy="40" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin57"/>
+ <circle class="connection_point" cx="145" cy="40" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin58"/>
+ <circle class="connection_point" cx="137.5" cy="47.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin59"/>
+ <circle class="connection_point" cx="145" cy="47.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin60"/>
+ <circle class="connection_point" cx="137.5" cy="62.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin61"/>
+ <circle class="connection_point" cx="145" cy="62.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin62"/>
+ <circle class="connection_point" cx="137.5" cy="70" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin63"/>
+ <circle class="connection_point" cx="145" cy="70" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin64"/>
+ <circle class="connection_point" cx="137.5" cy="77.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin65"/>
+ <circle class="connection_point" cx="145" cy="77.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin66"/>
+ <circle class="connection_point" cx="137.5" cy="85" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin67"/>
+ <circle class="connection_point" cx="145" cy="85" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin68"/>
+ <circle class="connection_point" cx="137.5" cy="92.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin69"/>
+ <circle class="connection_point" cx="145" cy="92.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin70"/>
+ <circle class="connection_point" cx="137.5" cy="107.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin71"/>
+ <circle class="connection_point" cx="145" cy="107.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin72"/>
+ <circle class="connection_point" cx="137.5" cy="115" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin73"/>
+ <circle class="connection_point" cx="145" cy="115" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin74"/>
+ <circle class="connection_point" cx="137.5" cy="122.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin75"/>
+ <circle class="connection_point" cx="145" cy="122.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin76"/>
+ <circle class="connection_point" cx="137.5" cy="130" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin77"/>
+ <circle class="connection_point" cx="145" cy="130" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin78"/>
+ <circle class="connection_point" cx="137.5" cy="137.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin79"/>
+ <circle class="connection_point" cx="145" cy="137.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin80"/>
+ <circle class="connection_point" cx="137.5" cy="152.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin81"/>
+ <circle class="connection_point" cx="145" cy="152.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin82"/>
+ <circle class="connection_point" cx="137.5" cy="160" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin83"/>
+ <circle class="connection_point" cx="145" cy="160" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin84"/>
+ <circle class="connection_point" cx="137.5" cy="167.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin85"/>
+ <circle class="connection_point" cx="145" cy="167.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin86"/>
+ <circle class="connection_point" cx="137.5" cy="175" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin87"/>
+ <circle class="connection_point" cx="145" cy="175" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin88"/>
+ <circle class="connection_point" cx="137.5" cy="182.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin89"/>
+ <circle class="connection_point" cx="145" cy="182.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin90"/>
+ <circle class="connection_point" cx="137.5" cy="197.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin91"/>
+ <circle class="connection_point" cx="145" cy="197.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin92"/>
+ <circle class="connection_point" cx="137.5" cy="205" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin93"/>
+ <circle class="connection_point" cx="145" cy="205" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin94"/>
+ <circle class="connection_point" cx="137.5" cy="212.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin95"/>
+ <circle class="connection_point" cx="145" cy="212.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin96"/>
+ <circle class="connection_point" cx="137.5" cy="220" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin97"/>
+ <circle class="connection_point" cx="145" cy="220" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin98"/>
+ <circle class="connection_point" cx="137.5" cy="227.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin99"/>
+ <circle class="connection_point" cx="145" cy="227.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin100"/>
+ <circle class="connection_point" cx="52.5" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin101"/>
+ <circle class="connection_point" cx="60" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin102"/>
+ <circle class="connection_point" cx="37.5" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin103"/>
+ <circle class="connection_point" cx="45" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin104"/>
+ <circle class="connection_point" cx="37.5" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin105"/>
+ <circle class="connection_point" cx="45" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin106"/>
+ <circle class="connection_point" cx="37.5" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin107"/>
+ <circle class="connection_point" cx="45" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin108"/>
+ <circle class="connection_point" cx="37.5" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin109"/>
+ <circle class="connection_point" cx="45" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin110"/>
+ <circle class="connection_point" cx="37.5" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin111"/>
+ <circle class="connection_point" cx="45" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin112"/>
+ <circle class="connection_point" cx="37.5" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin113"/>
+ <circle class="connection_point" cx="45" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin114"/>
+ <circle class="connection_point" cx="37.5" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin115"/>
+ <circle class="connection_point" cx="45" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin116"/>
+ <circle class="connection_point" cx="37.5" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin117"/>
+ <circle class="connection_point" cx="45" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin118"/>
+ <circle class="connection_point" cx="37.5" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin119"/>
+ <circle class="connection_point" cx="45" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin120"/>
+ <circle class="connection_point" cx="37.5" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin121"/>
+ <circle class="connection_point" cx="45" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin122"/>
+ <circle class="connection_point" cx="37.5" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin123"/>
+ <circle class="connection_point" cx="45" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin124"/>
+ <circle class="connection_point" cx="37.5" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin125"/>
+ <circle class="connection_point" cx="45" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin126"/>
+ <circle class="connection_point" cx="37.5" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin127"/>
+ <circle class="connection_point" cx="45" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin128"/>
+ <circle class="connection_point" cx="37.5" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin129"/>
+ <circle class="connection_point" cx="45" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin130"/>
+ <circle class="connection_point" cx="37.5" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin131"/>
+ <circle class="connection_point" cx="45" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin132"/>
+ <circle class="connection_point" cx="37.5" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin133"/>
+ <circle class="connection_point" cx="45" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin134"/>
+ <circle class="connection_point" cx="37.5" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin135"/>
+ <circle class="connection_point" cx="45" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin136"/>
+ <circle class="connection_point" cx="37.5" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin137"/>
+ <circle class="connection_point" cx="45" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin138"/>
+ <circle class="connection_point" cx="37.5" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin139"/>
+ <circle class="connection_point" cx="45" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin140"/>
+ <circle class="connection_point" cx="37.5" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin141"/>
+ <circle class="connection_point" cx="45" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin142"/>
+ <circle class="connection_point" cx="37.5" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin143"/>
+ <circle class="connection_point" cx="45" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin144"/>
+ <circle class="connection_point" cx="37.5" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin145"/>
+ <circle class="connection_point" cx="45" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin146"/>
+ <circle class="connection_point" cx="37.5" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin147"/>
+ <circle class="connection_point" cx="45" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin148"/>
+ <circle class="connection_point" cx="37.5" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin149"/>
+ <circle class="connection_point" cx="45" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin150"/>
+ <circle class="connection_point" cx="37.5" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin151"/>
+ <circle class="connection_point" cx="45" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin152"/>
+ <circle class="connection_point" cx="37.5" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin153"/>
+ <circle class="connection_point" cx="45" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin154"/>
+ <circle class="connection_point" cx="37.5" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin155"/>
+ <circle class="connection_point" cx="45" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin156"/>
+ <circle class="connection_point" cx="37.5" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin157"/>
+ <circle class="connection_point" cx="45" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin158"/>
+ <circle class="connection_point" cx="37.5" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin159"/>
+ <circle class="connection_point" cx="45" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin160"/>
+ <circle class="connection_point" cx="67.5" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin161"/>
+ <circle class="connection_point" cx="52.5" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin162"/>
+ <circle class="connection_point" cx="60" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin163"/>
+ <circle class="connection_point" cx="67.5" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin164"/>
+ <circle class="connection_point" cx="52.5" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin165"/>
+ <circle class="connection_point" cx="60" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin166"/>
+ <circle class="connection_point" cx="67.5" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin167"/>
+ <circle class="connection_point" cx="52.5" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin168"/>
+ <circle class="connection_point" cx="60" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin169"/>
+ <circle class="connection_point" cx="67.5" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin170"/>
+ <circle class="connection_point" cx="52.5" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin171"/>
+ <circle class="connection_point" cx="60" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin172"/>
+ <circle class="connection_point" cx="67.5" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin173"/>
+ <circle class="connection_point" cx="52.5" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin174"/>
+ <circle class="connection_point" cx="60" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin175"/>
+ <circle class="connection_point" cx="67.5" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin176"/>
+ <circle class="connection_point" cx="52.5" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin177"/>
+ <circle class="connection_point" cx="60" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin178"/>
+ <circle class="connection_point" cx="67.5" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin179"/>
+ <circle class="connection_point" cx="52.5" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin180"/>
+ <circle class="connection_point" cx="60" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin181"/>
+ <circle class="connection_point" cx="67.5" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin182"/>
+ <circle class="connection_point" cx="52.5" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin183"/>
+ <circle class="connection_point" cx="60" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin184"/>
+ <circle class="connection_point" cx="67.5" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin185"/>
+ <circle class="connection_point" cx="52.5" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin186"/>
+ <circle class="connection_point" cx="60" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin187"/>
+ <circle class="connection_point" cx="67.5" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin188"/>
+ <circle class="connection_point" cx="52.5" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin189"/>
+ <circle class="connection_point" cx="60" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin190"/>
+ <circle class="connection_point" cx="67.5" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin191"/>
+ <circle class="connection_point" cx="52.5" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin192"/>
+ <circle class="connection_point" cx="60" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin193"/>
+ <circle class="connection_point" cx="67.5" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin194"/>
+ <circle class="connection_point" cx="52.5" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin195"/>
+ <circle class="connection_point" cx="60" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin196"/>
+ <circle class="connection_point" cx="67.5" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin197"/>
+ <circle class="connection_point" cx="52.5" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin198"/>
+ <circle class="connection_point" cx="60" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin199"/>
+ <circle class="connection_point" cx="67.5" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin200"/>
+ <circle class="connection_point" cx="52.5" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin201"/>
+ <circle class="connection_point" cx="60" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin202"/>
+ <circle class="connection_point" cx="67.5" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin203"/>
+ <circle class="connection_point" cx="52.5" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin204"/>
+ <circle class="connection_point" cx="60" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin205"/>
+ <circle class="connection_point" cx="67.5" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin206"/>
+ <circle class="connection_point" cx="52.5" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin207"/>
+ <circle class="connection_point" cx="60" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin208"/>
+ <circle class="connection_point" cx="67.5" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin209"/>
+ <circle class="connection_point" cx="52.5" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin210"/>
+ <circle class="connection_point" cx="60" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin211"/>
+ <circle class="connection_point" cx="67.5" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin212"/>
+ <circle class="connection_point" cx="52.5" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin213"/>
+ <circle class="connection_point" cx="60" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin214"/>
+ <circle class="connection_point" cx="67.5" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin215"/>
+ <circle class="connection_point" cx="52.5" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin216"/>
+ <circle class="connection_point" cx="60" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin217"/>
+ <circle class="connection_point" cx="67.5" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin218"/>
+ <circle class="connection_point" cx="52.5" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin219"/>
+ <circle class="connection_point" cx="60" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin220"/>
+ <circle class="connection_point" cx="67.5" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin221"/>
+ <circle class="connection_point" cx="52.5" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin222"/>
+ <circle class="connection_point" cx="60" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin223"/>
+ <circle class="connection_point" cx="67.5" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin224"/>
+ <circle class="connection_point" cx="52.5" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin225"/>
+ <circle class="connection_point" cx="60" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin226"/>
+ <circle class="connection_point" cx="67.5" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin227"/>
+ <circle class="connection_point" cx="52.5" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin228"/>
+ <circle class="connection_point" cx="60" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin229"/>
+ <circle class="connection_point" cx="67.5" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin230"/>
+ <circle class="connection_point" cx="52.5" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin231"/>
+ <circle class="connection_point" cx="60" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin232"/>
+ <circle class="connection_point" cx="67.5" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin233"/>
+ <circle class="connection_point" cx="52.5" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin234"/>
+ <circle class="connection_point" cx="60" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin235"/>
+ <circle class="connection_point" cx="67.5" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin236"/>
+ <circle class="connection_point" cx="52.5" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin237"/>
+ <circle class="connection_point" cx="60" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin238"/>
+ <circle class="connection_point" cx="67.5" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin239"/>
+ <circle class="connection_point" cx="52.5" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin240"/>
+ <circle class="connection_point" cx="60" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin241"/>
+ <circle class="connection_point" cx="67.5" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin242"/>
+ <circle class="connection_point" cx="52.5" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin243"/>
+ <circle class="connection_point" cx="60" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin244"/>
+ <circle class="connection_point" cx="67.5" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin245"/>
+ <circle class="connection_point" cx="52.5" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin246"/>
+ <circle class="connection_point" cx="60" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin247"/>
+ <circle class="connection_point" cx="45" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin248"/>
+ <circle class="connection_point" cx="37.5" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin249"/>
+ <circle class="connection_point" cx="67.5" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin250"/>
+ <g fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700" letter-spacing="-.05em">
+  <text transform="translate(29.5 16.52)" font-variation-settings="'wght' 700"><tspan x="0" y="0">1</tspan></text>
+  <text transform="translate(29.455 46.441)" font-variation-settings="'wght' 700"><tspan x="0" y="0">5</tspan></text>
+  <text transform="translate(26.75 83.862)" font-variation-settings="'wght' 700"><tspan x="0" y="0">10</tspan></text>
+  <text transform="translate(26.75 121.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0">15</tspan></text>
+  <text transform="translate(26.75 158.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0">20</tspan></text>
+  <text transform="translate(26.75 196.36)" font-variation-settings="'wght' 700"><tspan x="0" y="0">25</tspan></text>
+  <text transform="translate(26.75 233.86)" font-variation-settings="'wght' 700"><tspan x="0" y="0">30</tspan></text>
+ </g>
+ <g fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700" letter-spacing="-.05em">
+  <text transform="translate(125 16.441)" font-variation-settings="'wght' 700"><tspan x="0" y="0">1</tspan></text>
+  <text transform="translate(125 46.363)" font-variation-settings="'wght' 700"><tspan x="0" y="0">5</tspan></text>
+  <text transform="translate(125 83.784)" font-variation-settings="'wght' 700"><tspan x="0" y="0">10</tspan></text>
+  <text transform="translate(125 121.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0">15</tspan></text>
+  <text transform="translate(125 158.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0">20</tspan></text>
+  <text transform="translate(125 196.28)" font-variation-settings="'wght' 700"><tspan x="0" y="0">25</tspan></text>
+  <text transform="translate(125 233.78)" font-variation-settings="'wght' 700"><tspan x="0" y="0">30</tspan></text>
+ </g>
+ <circle class="connection_point" cx="105" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin251"/>
+ <circle class="connection_point" cx="112.5" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin252"/>
+ <circle class="connection_point" cx="90" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin253"/>
+ <circle class="connection_point" cx="97.5" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin254"/>
+ <circle class="connection_point" cx="90" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin255"/>
+ <circle class="connection_point" cx="97.5" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin256"/>
+ <circle class="connection_point" cx="90" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin257"/>
+ <circle class="connection_point" cx="97.5" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin258"/>
+ <circle class="connection_point" cx="90" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin259"/>
+ <circle class="connection_point" cx="97.5" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin260"/>
+ <circle class="connection_point" cx="90" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin261"/>
+ <circle class="connection_point" cx="97.5" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin262"/>
+ <circle class="connection_point" cx="90" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin263"/>
+ <circle class="connection_point" cx="97.5" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin264"/>
+ <circle class="connection_point" cx="90" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin265"/>
+ <circle class="connection_point" cx="97.5" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin266"/>
+ <circle class="connection_point" cx="90" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin267"/>
+ <circle class="connection_point" cx="97.5" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin268"/>
+ <circle class="connection_point" cx="90" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin269"/>
+ <circle class="connection_point" cx="97.5" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin270"/>
+ <circle class="connection_point" cx="90" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin271"/>
+ <circle class="connection_point" cx="97.5" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin272"/>
+ <circle class="connection_point" cx="90" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin273"/>
+ <circle class="connection_point" cx="97.5" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin274"/>
+ <circle class="connection_point" cx="90" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin275"/>
+ <circle class="connection_point" cx="97.5" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin276"/>
+ <circle class="connection_point" cx="90" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin277"/>
+ <circle class="connection_point" cx="97.5" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin278"/>
+ <circle class="connection_point" cx="90" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin279"/>
+ <circle class="connection_point" cx="97.5" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin280"/>
+ <circle class="connection_point" cx="90" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin281"/>
+ <circle class="connection_point" cx="97.5" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin282"/>
+ <circle class="connection_point" cx="90" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin283"/>
+ <circle class="connection_point" cx="97.5" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin284"/>
+ <circle class="connection_point" cx="90" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin285"/>
+ <circle class="connection_point" cx="97.5" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin286"/>
+ <circle class="connection_point" cx="90" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin287"/>
+ <circle class="connection_point" cx="97.5" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin288"/>
+ <circle class="connection_point" cx="90" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin289"/>
+ <circle class="connection_point" cx="97.5" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin290"/>
+ <circle class="connection_point" cx="90" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin291"/>
+ <circle class="connection_point" cx="97.5" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin292"/>
+ <circle class="connection_point" cx="90" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin293"/>
+ <circle class="connection_point" cx="97.5" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin294"/>
+ <circle class="connection_point" cx="90" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin295"/>
+ <circle class="connection_point" cx="97.5" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin296"/>
+ <circle class="connection_point" cx="90" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin297"/>
+ <circle class="connection_point" cx="97.5" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin298"/>
+ <circle class="connection_point" cx="90" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin299"/>
+ <circle class="connection_point" cx="97.5" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin300"/>
+ <circle class="connection_point" cx="90" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin301"/>
+ <circle class="connection_point" cx="97.5" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin302"/>
+ <circle class="connection_point" cx="90" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin303"/>
+ <circle class="connection_point" cx="97.5" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin304"/>
+ <circle class="connection_point" cx="90" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin305"/>
+ <circle class="connection_point" cx="97.5" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin306"/>
+ <circle class="connection_point" cx="90" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin307"/>
+ <circle class="connection_point" cx="97.5" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin308"/>
+ <circle class="connection_point" cx="90" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin309"/>
+ <circle class="connection_point" cx="97.5" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin310"/>
+ <circle class="connection_point" cx="120" cy="15" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin311"/>
+ <circle class="connection_point" cx="105" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin312"/>
+ <circle class="connection_point" cx="112.5" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin313"/>
+ <circle class="connection_point" cx="120" cy="22.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin314"/>
+ <circle class="connection_point" cx="105" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin315"/>
+ <circle class="connection_point" cx="112.5" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin316"/>
+ <circle class="connection_point" cx="120" cy="30" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin317"/>
+ <circle class="connection_point" cx="105" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin318"/>
+ <circle class="connection_point" cx="112.5" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin319"/>
+ <circle class="connection_point" cx="120" cy="37.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin320"/>
+ <circle class="connection_point" cx="105" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin321"/>
+ <circle class="connection_point" cx="112.5" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin322"/>
+ <circle class="connection_point" cx="120" cy="45" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin323"/>
+ <circle class="connection_point" cx="105" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin324"/>
+ <circle class="connection_point" cx="112.5" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin325"/>
+ <circle class="connection_point" cx="120" cy="52.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin326"/>
+ <circle class="connection_point" cx="105" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin327"/>
+ <circle class="connection_point" cx="112.5" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin328"/>
+ <circle class="connection_point" cx="120" cy="60" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin329"/>
+ <circle class="connection_point" cx="105" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin330"/>
+ <circle class="connection_point" cx="112.5" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin331"/>
+ <circle class="connection_point" cx="120" cy="67.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin332"/>
+ <circle class="connection_point" cx="105" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin333"/>
+ <circle class="connection_point" cx="112.5" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin334"/>
+ <circle class="connection_point" cx="120" cy="75" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin335"/>
+ <circle class="connection_point" cx="105" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin336"/>
+ <circle class="connection_point" cx="112.5" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin337"/>
+ <circle class="connection_point" cx="120" cy="82.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin338"/>
+ <circle class="connection_point" cx="105" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin339"/>
+ <circle class="connection_point" cx="112.5" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin340"/>
+ <circle class="connection_point" cx="120" cy="90" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin341"/>
+ <circle class="connection_point" cx="105" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin342"/>
+ <circle class="connection_point" cx="112.5" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin343"/>
+ <circle class="connection_point" cx="120" cy="97.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin344"/>
+ <circle class="connection_point" cx="105" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin345"/>
+ <circle class="connection_point" cx="112.5" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin346"/>
+ <circle class="connection_point" cx="120" cy="105" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin347"/>
+ <circle class="connection_point" cx="105" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin348"/>
+ <circle class="connection_point" cx="112.5" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin349"/>
+ <circle class="connection_point" cx="120" cy="112.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin350"/>
+ <circle class="connection_point" cx="105" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin351"/>
+ <circle class="connection_point" cx="112.5" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin352"/>
+ <circle class="connection_point" cx="120" cy="120" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin353"/>
+ <circle class="connection_point" cx="105" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin354"/>
+ <circle class="connection_point" cx="112.5" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin355"/>
+ <circle class="connection_point" cx="120" cy="127.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin356"/>
+ <circle class="connection_point" cx="105" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin357"/>
+ <circle class="connection_point" cx="112.5" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin358"/>
+ <circle class="connection_point" cx="120" cy="135" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin359"/>
+ <circle class="connection_point" cx="105" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin360"/>
+ <circle class="connection_point" cx="112.5" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin361"/>
+ <circle class="connection_point" cx="120" cy="142.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin362"/>
+ <circle class="connection_point" cx="105" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin363"/>
+ <circle class="connection_point" cx="112.5" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin364"/>
+ <circle class="connection_point" cx="120" cy="150" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin365"/>
+ <circle class="connection_point" cx="105" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin366"/>
+ <circle class="connection_point" cx="112.5" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin367"/>
+ <circle class="connection_point" cx="120" cy="157.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin368"/>
+ <circle class="connection_point" cx="105" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin369"/>
+ <circle class="connection_point" cx="112.5" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin370"/>
+ <circle class="connection_point" cx="120" cy="165" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin371"/>
+ <circle class="connection_point" cx="105" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin372"/>
+ <circle class="connection_point" cx="112.5" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin373"/>
+ <circle class="connection_point" cx="120" cy="172.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin374"/>
+ <circle class="connection_point" cx="105" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin375"/>
+ <circle class="connection_point" cx="112.5" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin376"/>
+ <circle class="connection_point" cx="120" cy="180" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin377"/>
+ <circle class="connection_point" cx="105" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin378"/>
+ <circle class="connection_point" cx="112.5" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin379"/>
+ <circle class="connection_point" cx="120" cy="187.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin380"/>
+ <circle class="connection_point" cx="105" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin381"/>
+ <circle class="connection_point" cx="112.5" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin382"/>
+ <circle class="connection_point" cx="120" cy="195" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin383"/>
+ <circle class="connection_point" cx="105" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin384"/>
+ <circle class="connection_point" cx="112.5" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin385"/>
+ <circle class="connection_point" cx="120" cy="202.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin386"/>
+ <circle class="connection_point" cx="105" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin387"/>
+ <circle class="connection_point" cx="112.5" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin388"/>
+ <circle class="connection_point" cx="120" cy="210" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin389"/>
+ <circle class="connection_point" cx="105" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin390"/>
+ <circle class="connection_point" cx="112.5" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin391"/>
+ <circle class="connection_point" cx="120" cy="217.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin392"/>
+ <circle class="connection_point" cx="105" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin393"/>
+ <circle class="connection_point" cx="112.5" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin394"/>
+ <circle class="connection_point" cx="120" cy="225" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin395"/>
+ <circle class="connection_point" cx="105" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin396"/>
+ <circle class="connection_point" cx="112.5" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin397"/>
+ <circle class="connection_point" cx="97.5" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin398"/>
+ <circle class="connection_point" cx="90" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin399"/>
+ <circle class="connection_point" cx="120" cy="232.5" r="1.625" fill="#2d3142" stroke="#a4a7b3" stroke-width=".75" data-pin-name="pin400"/>
+ <g fill="none" stroke-miterlimit="10" stroke-width=".75">
+  <line x1="25" x2="25" y1="7.5" y2="240" stroke="#2297bf"/>
+  <line x1="7.5" x2="7.5" y1="7.5" y2="240" stroke="#e86b59"/>
+  <line x1="132.5" x2="132.5" y1="7.5" y2="240" stroke="#e86b59"/>
+  <line x1="150" x2="150" y1="7.5" y2="240" stroke="#2297bf"/>
+ </g>
+ <g fill="#a4a7b3" font-family="Nunito-Bold, Nunito" font-size="5px" font-weight="700">
+  <text x="35.6394" y="9.9998198" font-variation-settings="'wght' 700"><tspan x="35.6394" y="9.9998198">A</tspan></text>
+  <text x="43.28027" y="10.00006" font-variation-settings="'wght' 700"><tspan x="43.28027" y="10.00006">B</tspan></text>
+  <text x="50.799679" y="9.9998198" font-variation-settings="'wght' 700"><tspan x="50.799679" y="9.9998198">C</tspan></text>
+  <text x="58.094479" y="10.00006" font-variation-settings="'wght' 700"><tspan x="58.094479" y="10.00006">D</tspan></text>
+  <text x="66.007446" y="9.9997902" font-variation-settings="'wght' 700"><tspan x="66.007446" y="9.9997902">E</tspan></text>
+  <text x="88.595207" y="9.9998198" font-variation-settings="'wght' 700"><tspan x="88.595207" y="9.9998198">F</tspan></text>
+  <text x="95.659912" y="10.00006" font-variation-settings="'wght' 700"><tspan x="95.659912" y="10.00006">G</tspan></text>
+  <text x="103.06702" y="9.9998198" font-variation-settings="'wght' 700"><tspan x="103.06702" y="9.9998198">H</tspan></text>
+  <text x="111.79443" y="10.00006" font-variation-settings="'wght' 700"><tspan x="111.79443" y="10.00006">I</tspan></text>
+  <text x="119.1156" y="9.9997902" font-variation-settings="'wght' 700"><tspan x="119.1156" y="9.9997902">J</tspan></text>
+  <text x="35.63953" y="239.99921" font-variation-settings="'wght' 700"><tspan x="35.63953" y="239.99921">A</tspan></text>
+  <text x="43.280399" y="239.99994" font-variation-settings="'wght' 700"><tspan x="43.280399" y="239.99994">B</tspan></text>
+  <text x="50.799801" y="239.99921" font-variation-settings="'wght' 700"><tspan x="50.799801" y="239.99921">C</tspan></text>
+  <text x="58.094601" y="239.99945" font-variation-settings="'wght' 700"><tspan x="58.094601" y="239.99945">D</tspan></text>
+  <text x="66.007568" y="239.99969" font-variation-settings="'wght' 700"><tspan x="66.007568" y="239.99969">E</tspan></text>
+  <text x="88.595337" y="239.99921" font-variation-settings="'wght' 700"><tspan x="88.595337" y="239.99921">F</tspan></text>
+  <text x="95.6604" y="239.99951" font-variation-settings="'wght' 700"><tspan x="95.6604" y="239.99951">G</tspan></text>
+  <text x="103.0675" y="239.99878" font-variation-settings="'wght' 700"><tspan x="103.0675" y="239.99878">H</tspan></text>
+  <text x="111.79492" y="239.99902" font-variation-settings="'wght' 700"><tspan x="111.79492" y="239.99902">I</tspan></text>
+  <text x="119.11609" y="239.99927" font-variation-settings="'wght' 700"><tspan x="119.11609" y="239.99927">J</tspan></text>
+ </g>
+ <rect x="75" y="2.5" width="7.5" height="242.5" fill="#d8d9db"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="157.5" y="122.75" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="157.5" y="127.75" style="display: none;"/></g><g data-source-id="mnw3vrg4z9ugfse2zqc" data-source-name="ESP32-DevKitC V4" data-width="167.5" data-height="77.5" class="component" id="part_1" transform="translate(2230,2300) scale(1,1) rotate(270,83.75,38.75)"><rect class="helper-box" x="0" y="0" width="167.5" height="77.5" fill="none"/>
+ <g fill="#fff">
+  <rect x="2.5" width="145" height="77.5" rx="1.97" ry="1.97"/>
+  <path d="M166.5,63.75h-22.75V13.75h22.75c.55,0,1,.45,1,1v48c0,.55-.45,1-1,1Z"/>
+  <path d="M146.25,63.75v1.5c0,.55-.45,1-1,1h-71.75c-.55,0-1-.45-1-1V12.25c0-.55.45-1,1-1h71.75c.55,0,1,.45,1,1v1.5"/>
+  <rect x="38.75" y="15" width="3.75" height="2.5"/>
+  <rect x="37.5" y="15" width="1.25" height="2.5"/>
+  <rect x="42.5" y="15" width="1.25" height="2.5"/>
+  <rect x="28.75" y="30" width="15" height="15"/>
+  <rect x="30" y="28.75" width=".96" height="1.25"/>
+  <rect x="31.92" y="28.75" width=".96" height="1.25"/>
+  <rect x="33.85" y="28.75" width=".96" height="1.25"/>
+  <rect x="35.77" y="28.75" width=".96" height="1.25"/>
+  <rect x="37.69" y="28.75" width=".96" height="1.25"/>
+  <rect x="39.62" y="28.75" width=".96" height="1.25"/>
+  <rect x="41.54" y="28.75" width=".96" height="1.25"/>
+  <rect x="30" y="45" width=".96" height="1.25"/>
+  <rect x="31.92" y="45" width=".96" height="1.25"/>
+  <rect x="33.85" y="45" width=".96" height="1.25"/>
+  <rect x="35.77" y="45" width=".96" height="1.25"/>
+  <rect x="37.69" y="45" width=".96" height="1.25"/>
+  <rect x="39.62" y="45" width=".96" height="1.25"/>
+  <rect x="41.54" y="45" width=".96" height="1.25"/>
+  <rect x="27.5" y="42.79" width="1.25" height=".96"/>
+  <rect x="27.5" y="40.87" width="1.25" height=".96"/>
+  <rect x="27.5" y="38.94" width="1.25" height=".96"/>
+  <rect x="27.5" y="37.02" width="1.25" height=".96"/>
+  <rect x="27.5" y="35.1" width="1.25" height=".96"/>
+  <rect x="27.5" y="33.17" width="1.25" height=".96"/>
+  <rect x="27.5" y="31.25" width="1.25" height=".96"/>
+  <rect x="43.75" y="42.79" width="1.25" height=".96"/>
+  <rect x="43.75" y="40.87" width="1.25" height=".96"/>
+  <rect x="43.75" y="38.94" width="1.25" height=".96"/>
+  <rect x="43.75" y="37.02" width="1.25" height=".96"/>
+  <rect x="43.75" y="35.1" width="1.25" height=".96"/>
+  <rect x="43.75" y="33.17" width="1.25" height=".96"/>
+  <rect x="43.75" y="31.25" width="1.25" height=".96"/>
+  <rect x="50" y="28.75" width="3.75" height="5"/>
+  <rect x="56.88" y="28.75" width="3.75" height="5"/>
+  <rect x="63.75" y="28.75" width="3.75" height="5"/>
+  <rect x="52.5" y="45" width="12.5" height="6.25"/>
+  <rect x="53.75" y="45" width="10" height="3.75"/>
+  <rect x="6.25" y="11.25" width="13.75" height="10" rx="1" ry="1"/>
+  <rect x="3.75" y="14.38" width="5.62" height="3.75"/>
+  <rect x="16.88" y="14.38" width="5.62" height="3.75"/>
+  <polyline points="148.75 16.25 165 16.25 165 23.75 151.25 23.75 151.25 31.25 165 31.25 165 38.75 151.25 38.75 151.25 46.25 165 46.25 165 61.25 147.5 61.25"/>
+  <rect x="73.75" y="12.5" width="2.5" height="5"/>
+  <rect x="77.5" y="12.5" width="2.5" height="5"/>
+  <rect x="81.25" y="12.5" width="2.5" height="5"/>
+  <rect x="85" y="12.5" width="2.5" height="5"/>
+  <path d="M90.31,14.37c-.52,0-.94.42-.94.94v2.19h-.62v-5h2.5v1.87h-.94Z"/>
+  <rect x="92.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="96.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="100" y="12.5" width="2.5" height="1.25"/>
+  <rect x="103.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="107.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="111.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="115" y="12.5" width="2.5" height="1.25"/>
+  <rect x="118.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="122.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="126.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="130" y="12.5" width="2.5" height="1.25"/>
+  <rect x="133.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="137.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="141.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="73.75" y="60" width="2.5" height="5"/>
+  <rect x="77.5" y="60" width="2.5" height="5"/>
+  <rect x="81.25" y="60" width="2.5" height="5"/>
+  <rect x="85" y="60" width="2.5" height="5"/>
+  <path d="M90.31,63.13c-.52,0-.94-.42-.94-.94v-2.19h-.62v5h2.5v-1.87h-.94Z"/>
+  <rect x="92.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="96.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="100" y="63.75" width="2.5" height="1.25"/>
+  <rect x="103.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="107.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="111.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="115" y="63.75" width="2.5" height="1.25"/>
+  <rect x="118.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="122.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="126.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="130" y="63.75" width="2.5" height="1.25"/>
+  <rect x="133.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="137.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="141.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="85" y="21.25" width="3.75" height="2.5"/>
+  <rect x="85" y="25" width="3.75" height="2.5"/>
+  <rect x="85" y="28.75" width="3.75" height="2.5"/>
+  <rect x="85" y="32.5" width="3.75" height="2.5"/>
+  <rect x="85" y="36.25" width="3.75" height="2.5"/>
+  <rect x="85" y="40" width="3.75" height="2.5"/>
+  <rect x="85" y="43.75" width="3.75" height="2.5"/>
+  <rect x="85" y="47.5" width="3.75" height="2.5"/>
+  <rect x="85" y="51.25" width="3.75" height="2.5"/>
+  <rect x="85" y="55" width="3.75" height="2.5"/>
+  <rect x="15" y="34.37" width="3.75" height=".97"/>
+  <rect x="15" y="36.32" width="3.75" height=".97"/>
+  <rect x="15" y="38.26" width="3.75" height=".97"/>
+  <rect x="15" y="40.21" width="3.75" height=".97"/>
+  <rect x="15" y="42.15" width="3.75" height=".97"/>
+  <rect x="15" y="26.87" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="5" y="26.87" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="15" y="48.12" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="5" y="48.12" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="12.5" y="31.87" width="2.5" height="2.5"/>
+  <rect x="12.5" y="43.12" width="2.5" height="2.5"/>
+  <path d="M1.25,49.37h16.25v-2.75c0-.55-.45-1-1-1h-4v-2.5h2.5v-8.75h-2.5v-2.5h4c.55,0,1-.45,1-1v-2.75H1.25l-1.25-1.25v1.25l.96.96c.19.19.29.44.29.71v.84h-.75c-.28,0-.5.22-.5.5v15.25c0,.28.22.5.5.5h.75v.84c0,.27-.11.52-.29.71l-.96.96v1.25l1.25-1.25Z"/>
+  <circle cx="7.5" cy="5" r="1.62"/>
+  <path d="M7.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M7.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="15" cy="5" r="1.62"/>
+  <path d="M15,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M15,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="22.5" cy="5" r="1.62"/>
+  <path d="M22.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M22.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="30" cy="5" r="1.62"/>
+  <path d="M30,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M30,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="37.5" cy="5" r="1.62"/>
+  <path d="M37.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M37.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="45" cy="5" r="1.62"/>
+  <path d="M45,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M45,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="52.5" cy="5" r="1.62"/>
+  <path d="M52.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M52.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="60" cy="5" r="1.62"/>
+  <path d="M60,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M60,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="67.5" cy="5" r="1.62"/>
+  <path d="M67.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M67.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="75" cy="5" r="1.62"/>
+  <path d="M75,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M75,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="82.5" cy="5" r="1.62"/>
+  <path d="M82.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M82.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="90" cy="5" r="1.62"/>
+  <path d="M90,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M90,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="97.5" cy="5" r="1.62"/>
+  <path d="M97.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M97.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="105" cy="5" r="1.62"/>
+  <path d="M105,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M105,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="112.5" cy="5" r="1.62"/>
+  <path d="M112.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M112.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="120" cy="5" r="1.62"/>
+  <path d="M120,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M120,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="127.5" cy="5" r="1.62"/>
+  <path d="M127.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M127.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="135" cy="5" r="1.62"/>
+  <path d="M135,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M135,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="142.5" cy="5" r="1.62"/>
+  <path d="M142.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M142.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="7.5" cy="72.5" r="1.62"/>
+  <path d="M7.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M7.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="15" cy="72.5" r="1.62"/>
+  <path d="M15,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M15,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="22.5" cy="72.5" r="1.62"/>
+  <path d="M22.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M22.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="30" cy="72.5" r="1.62"/>
+  <path d="M30,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M30,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="37.5" cy="72.5" r="1.62"/>
+  <path d="M37.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M37.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="45" cy="72.5" r="1.62"/>
+  <path d="M45,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M45,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="52.5" cy="72.5" r="1.62"/>
+  <path d="M52.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M52.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="60" cy="72.5" r="1.62"/>
+  <path d="M60,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M60,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="67.5" cy="72.5" r="1.62"/>
+  <path d="M67.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M67.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="75" cy="72.5" r="1.62"/>
+  <path d="M75,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M75,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="82.5" cy="72.5" r="1.62"/>
+  <path d="M82.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M82.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="90" cy="72.5" r="1.62"/>
+  <path d="M90,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M90,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="97.5" cy="72.5" r="1.62"/>
+  <path d="M97.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M97.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="105" cy="72.5" r="1.62"/>
+  <path d="M105,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M105,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="112.5" cy="72.5" r="1.62"/>
+  <path d="M112.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M112.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="120" cy="72.5" r="1.62"/>
+  <path d="M120,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M120,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="127.5" cy="72.5" r="1.62"/>
+  <path d="M127.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M127.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="135" cy="72.5" r="1.62"/>
+  <path d="M135,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M135,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <circle cx="142.5" cy="72.5" r="1.62"/>
+  <path d="M142.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M142.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z"/>
+  <rect x="51.25" y="22.5" width="3.75" height="2.5"/>
+  <rect x="55" y="22.5" width="1.25" height="2.5"/>
+  <rect x="50" y="22.5" width="1.25" height="2.5"/>
+  <rect x="62.5" y="16.25" width="3.75" height="2.5"/>
+  <rect x="66.25" y="16.25" width="1.25" height="2.5"/>
+  <rect x="61.25" y="16.25" width="1.25" height="2.5"/>
+  <rect x="62.5" y="22.5" width="3.75" height="2.5"/>
+  <rect x="66.25" y="22.5" width="1.25" height="2.5"/>
+  <rect x="61.25" y="22.5" width="1.25" height="2.5"/>
+  <rect x="30" y="16.25" width="2.5" height="1.25"/>
+  <rect x="32.5" y="16.25" width="1.25" height="1.25"/>
+  <rect x="28.75" y="16.25" width="1.25" height="1.25"/>
+  <rect x="55" y="16.87" width="1.25" height="2.5"/>
+  <rect x="55" y="19.37" width="1.25" height=".62"/>
+  <rect x="55" y="16.25" width="1.25" height=".63"/>
+  <rect x="52.5" y="16.87" width="1.25" height="2.5"/>
+  <rect x="52.5" y="19.37" width="1.25" height=".62"/>
+  <rect x="52.5" y="16.25" width="1.25" height=".63"/>
+  <rect x="50" y="16.87" width="1.25" height="2.5"/>
+  <rect x="50" y="19.37" width="1.25" height=".62"/>
+  <rect x="50" y="16.25" width="1.25" height=".63"/>
+  <rect x="43.75" y="23.13" width="1.25" height="2.5"/>
+  <rect x="43.75" y="25.63" width="1.25" height=".62"/>
+  <rect x="43.75" y="22.5" width="1.25" height=".63"/>
+  <rect x="41.25" y="23.13" width="1.25" height="2.5"/>
+  <rect x="41.25" y="25.63" width="1.25" height=".62"/>
+  <rect x="41.25" y="22.5" width="1.25" height=".63"/>
+  <rect x="37.5" y="23.12" width="1.25" height="2.5"/>
+  <rect x="37.5" y="25.62" width="1.25" height=".62"/>
+  <rect x="37.5" y="22.5" width="1.25" height=".63"/>
+  <rect x="35" y="23.12" width="1.25" height="2.5"/>
+  <rect x="35" y="25.62" width="1.25" height=".62"/>
+  <rect x="35" y="22.5" width="1.25" height=".63"/>
+  <rect x="29.38" y="25" width="2.5" height="1.25"/>
+  <rect x="28.75" y="25" width=".62" height="1.25"/>
+  <rect x="31.88" y="25" width=".63" height="1.25"/>
+  <rect x="29.38" y="22.5" width="2.5" height="1.25"/>
+  <rect x="28.75" y="22.5" width=".62" height="1.25"/>
+  <rect x="31.88" y="22.5" width=".63" height="1.25"/>
+  <rect x="16.88" y="23.75" width="2.5" height="1.25"/>
+  <rect x="16.25" y="23.75" width=".62" height="1.25"/>
+  <rect x="19.38" y="23.75" width=".63" height="1.25"/>
+  <rect x="41.88" y="48.75" width="1.25" height="1.25"/>
+  <rect x="41.25" y="48.75" width=".63" height="1.25"/>
+  <rect x="43.13" y="48.75" width=".62" height="1.25"/>
+  <rect x="41.88" y="51.25" width="1.25" height="1.25"/>
+  <rect x="41.25" y="51.25" width=".63" height="1.25"/>
+  <rect x="43.13" y="51.25" width=".62" height="1.25"/>
+  <rect x="29.38" y="48.75" width="1.25" height="1.25"/>
+  <rect x="28.75" y="48.75" width=".63" height="1.25"/>
+  <rect x="30.63" y="48.75" width=".62" height="1.25"/>
+  <rect x="29.38" y="51.25" width="1.25" height="1.25"/>
+  <rect x="28.75" y="51.25" width=".63" height="1.25"/>
+  <rect x="30.63" y="51.25" width=".62" height="1.25"/>
+  <rect x="56.25" y="56.25" width="5" height="8.75"/>
+  <rect x="53.75" y="57.5" width="2.5" height="1.25"/>
+  <rect x="53.75" y="62.5" width="2.5" height="1.25"/>
+  <rect x="61.25" y="60" width="2.5" height="1.25"/>
+  <rect x="33.75" y="56.25" width="5" height="8.75"/>
+  <rect x="38.75" y="62.5" width="2.5" height="1.25"/>
+  <rect x="38.75" y="57.5" width="2.5" height="1.25"/>
+  <rect x="31.25" y="60" width="2.5" height="1.25"/>
+  <rect x="90" y="15" width="55" height="47.5" rx="1" ry="1"/>
+  <rect x="141.25" y="13.75" width="2.5" height=".62"/>
+  <path d="m143.75 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="137.5" y="13.75" width="2.5" height=".62"/>
+  <path d="m140 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="133.75" y="13.75" width="2.5" height=".62"/>
+  <path d="m136.25 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="130" y="13.75" width="2.5" height=".62"/>
+  <path d="m132.5 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="126.25" y="13.75" width="2.5" height=".62"/>
+  <path d="m128.75 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="122.5" y="13.75" width="2.5" height=".62"/>
+  <path d="m125 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="118.75" y="13.75" width="2.5" height=".62"/>
+  <path d="m121.25 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="115" y="13.75" width="2.5" height=".62"/>
+  <path d="m117.5 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="111.25" y="13.75" width="2.5" height=".62"/>
+  <path d="m113.75 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="107.5" y="13.75" width="2.5" height=".62"/>
+  <path d="m110 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="103.75" y="13.75" width="2.5" height=".62"/>
+  <path d="m106.25 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="100" y="13.75" width="2.5" height=".62"/>
+  <path d="m102.5 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="96.25" y="13.75" width="2.5" height=".62"/>
+  <path d="m98.75 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="92.5" y="13.75" width="2.5" height=".62"/>
+  <path d="m95 13.75v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="141.25" y="63.12" width="2.5" height=".62"/>
+  <path d="m143.75 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="137.5" y="63.12" width="2.5" height=".62"/>
+  <path d="m140 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="133.75" y="63.12" width="2.5" height=".62"/>
+  <path d="m136.25 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="130" y="63.12" width="2.5" height=".62"/>
+  <path d="m132.5 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="126.25" y="63.12" width="2.5" height=".62"/>
+  <path d="m128.75 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="122.5" y="63.12" width="2.5" height=".62"/>
+  <path d="m125 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="118.75" y="63.12" width="2.5" height=".62"/>
+  <path d="m121.25 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="115" y="63.12" width="2.5" height=".62"/>
+  <path d="m117.5 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="111.25" y="63.12" width="2.5" height=".62"/>
+  <path d="m113.75 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="107.5" y="63.12" width="2.5" height=".62"/>
+  <path d="m110 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="103.75" y="63.12" width="2.5" height=".62"/>
+  <path d="m106.25 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="100" y="63.12" width="2.5" height=".62"/>
+  <path d="m102.5 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="96.25" y="63.12" width="2.5" height=".62"/>
+  <path d="m98.75 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="92.5" y="63.12" width="2.5" height=".62"/>
+  <path d="m95 63.12v0.62h-2.5v-0.62h2.5m1-1h-4.5v2.62h4.5v-2.62z"/>
+  <rect x="88.75" y="21.25" width=".62" height="2.5"/>
+  <path d="m89.38 21.25v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="25" width=".62" height="2.5"/>
+  <path d="m89.38 25v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="28.75" width=".62" height="2.5"/>
+  <path d="m89.38 28.75v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="32.5" width=".62" height="2.5"/>
+  <path d="m89.38 32.5v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="36.25" width=".62" height="2.5"/>
+  <path d="m89.38 36.25v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="40" width=".62" height="2.5"/>
+  <path d="m89.38 40v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="43.75" width=".62" height="2.5"/>
+  <path d="m89.38 43.75v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="47.5" width=".62" height="2.5"/>
+  <path d="m89.38 47.5v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="51.25" width=".62" height="2.5"/>
+  <path d="m89.38 51.25v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="88.75" y="55" width=".62" height="2.5"/>
+  <path d="m89.38 55v2.5h-0.62v-2.5h0.62m1-1h-2.62v4.5h2.62v-4.5z"/>
+  <rect x="53.75" y="46.25" width="10" height="1.25"/>
+  <polygon points="18.12 14.38 18.12 15.63 18.75 15.63 18.75 16.88 18.12 16.88 18.12 18.13 18.75 18.13 18.75 19.37 17.5 19.37 17.5 20 8.75 20 8.75 19.37 7.5 19.37 7.5 18.13 8.12 18.13 8.12 16.88 7.5 16.88 7.5 15.63 8.12 15.63 8.12 14.38 7.5 14.38 7.5 13.12 8.75 13.12 8.75 12.5 17.5 12.5 17.5 13.12 18.75 13.12 18.75 14.38"/>
+  <circle cx="13.12" cy="16.25" r="2.5"/>
+  <rect x="6.25" y="56.25" width="13.75" height="10" rx="1" ry="1"/>
+  <rect x="3.75" y="59.38" width="5.62" height="3.75"/>
+  <rect x="16.88" y="59.38" width="5.62" height="3.75"/>
+  <polygon points="18.12 59.38 18.12 60.63 18.75 60.63 18.75 61.88 18.12 61.88 18.12 63.13 18.75 63.13 18.75 64.37 17.5 64.37 17.5 65 8.75 65 8.75 64.37 7.5 64.37 7.5 63.13 8.12 63.13 8.12 61.88 7.5 61.88 7.5 60.63 8.12 60.63 8.12 59.38 7.5 59.38 7.5 58.12 8.75 58.12 8.75 57.5 17.5 57.5 17.5 58.12 18.75 58.12 18.75 59.38"/>
+  <circle cx="13.12" cy="61.25" r="2.5"/>
+  <path d="M96.88,20.31c0,.86-.7,1.56-1.56,1.56s-1.56-.7-1.56-1.56.7-1.56,1.56-1.56,1.56.7,1.56,1.56Z"/>
+  <rect x="48.75" y="33.75" width="20" height="11.25"/>
+  <rect x="22.5" y="36.25" width="2.5" height="1.25"/>
+  <rect x="22.5" y="40" width="2.5" height="1.25"/>
+  <rect x="22.5" y="43.75" width="2.5" height="1.25"/>
+  <rect x="25" y="36.25" width=".62" height="1.25"/>
+  <rect x="25" y="40" width=".62" height="1.25"/>
+  <rect x="25" y="43.75" width=".62" height="1.25"/>
+  <rect x="21.88" y="36.25" width=".62" height="1.25"/>
+  <rect x="21.88" y="40" width=".62" height="1.25"/>
+  <rect x="21.88" y="43.75" width=".62" height="1.25"/>
+  <rect x="40" y="47.5" width="5" height="6.25" rx="1" ry="1"/>
+  <rect x="27.5" y="47.5" width="5" height="6.25" rx="1" ry="1"/>
+  <rect x="60" y="15" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="60" y="21.25" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="48.75" y="21.25" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="48.75" y="15" width="8.75" height="6.25" rx="1" ry="1"/>
+  <path d="M66.25,47.25v4.25c0,.55-.45,1-1,1h-13c-.55,0-1-.45-1-1v-4.25c0-.55-.45-1-1-1h-1.75c-.55,0-1-.45-1-1v-16.75c0-.55.45-1,1-1h20.5c.55,0,1,.45,1,1v16.75c0,.55-.45,1-1,1h-1.75c-.55,0-1,.45-1,1Z"/>
+  <rect x="52.5" y="55" width="12.5" height="11.25" rx="1" ry="1"/>
+  <rect x="30" y="55" width="12.5" height="11.25" rx="1" ry="1"/>
+  <path d="M38.75,18.75h-1.5c-.55,0-1-.45-1-1v-3c0-.55.45-1,1-1h1.5"/>
+  <path d="M42.5,13.75h1.5c.55,0,1,.45,1,1v3c0,.55-.45,1-1,1h-1.5"/>
+  <rect x="27.5" y="15" width="7.5" height="3.75" rx="1" ry="1"/>
+  <rect x="40" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="33.75" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="27.5" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="15" y="22.5" width="6.25" height="3.75" rx="1" ry="1"/>
+  <rect x="16.88" y="52.5" width="2.5" height="1.25"/>
+  <rect x="16.25" y="52.5" width=".62" height="1.25"/>
+  <rect x="19.38" y="52.5" width=".63" height="1.25"/>
+  <rect x="15" y="51.25" width="6.25" height="3.75" rx="1" ry="1"/>
+  <rect x="22.5" y="22.5" width="3.75" height="3.75"/>
+  <rect x="23.75" y="21.25" width="1.25" height="1.25"/>
+  <rect x="23.75" y="26.25" width="1.25" height="1.25"/>
+  <rect x="4.38" y="31.87" width="1.88" height="1.88"/>
+  <path d="M4.38,33.75h-1.38c-.28,0-.5-.22-.5-.5v-.88c0-.28.22-.5.5-.5h1.38v1.88Z"/>
+  <rect x="4.38" y="43.75" width="1.88" height="1.88"/>
+  <path d="M4.38,45.62h-1.38c-.28,0-.5-.22-.5-.5v-.88c0-.28.22-.5.5-.5h1.38v1.88Z"/>
+  <circle cx="147.5" cy="53.75" r="1"/>
+  <circle cx="147.5" cy="61.25" r="1"/>
+  <g font-family="Nunito-Bold, Nunito" font-weight="700">
+   <g font-size="4">
+    <g letter-spacing="-.05em">
+     <text transform="translate(23.75 13.03) rotate(90)"><tspan x="0" y="0">EN</tspan></text>
+     <text transform="translate(23.75 13.03) rotate(90)"><tspan x="0" y="0">EN</tspan></text>
+     <text transform="translate(23.75 13.03) rotate(90)"><tspan x="0" y="0">EN</tspan></text>
+    </g>
+    <text transform="translate(23.75 55.88) rotate(90)"><tspan x="0" y="0" letter-spacing="-.05em">BO</tspan><tspan x="5.49" y="0" letter-spacing="-.09em">O</tspan><tspan x="8.26" y="0" letter-spacing="-.05em">T</tspan></text>
+    <text transform="translate(23.75 55.88) rotate(90)"><tspan x="0" y="0" letter-spacing="-.05em">BO</tspan><tspan x="5.49" y="0" letter-spacing="-.09em">O</tspan><tspan x="8.26" y="0" letter-spacing="-.05em">T</tspan></text>
+    <text transform="translate(23.75 55.88) rotate(90)"><tspan x="0" y="0" letter-spacing="-.05em">BO</tspan><tspan x="5.49" y="0" letter-spacing="-.09em">O</tspan><tspan x="8.26" y="0" letter-spacing="-.05em">T</tspan></text>
+   </g>
+   <g font-size="3">
+    <g letter-spacing="-.05em">
+     <text transform="translate(4.79 70)"><tspan x="0" y="0">CLK</tspan></text>
+     <text transform="translate(4.79 70)"><tspan x="0" y="0">CLK</tspan></text>
+     <text transform="translate(4.79 70)"><tspan x="0" y="0">CLK</tspan></text>
+     <text transform="translate(13.03 70)"><tspan x="0" y="0">D0</tspan></text>
+     <text transform="translate(13.03 70)"><tspan x="0" y="0">D0</tspan></text>
+     <text transform="translate(13.03 70)"><tspan x="0" y="0">D0</tspan></text>
+     <text transform="translate(20.53 70)"><tspan x="0" y="0">D1</tspan></text>
+     <text transform="translate(20.53 70)"><tspan x="0" y="0">D1</tspan></text>
+     <text transform="translate(20.53 70)"><tspan x="0" y="0">D1</tspan></text>
+     <text transform="translate(28.28 70)"><tspan x="0" y="0">15</tspan></text>
+     <text transform="translate(28.28 70)"><tspan x="0" y="0">15</tspan></text>
+     <text transform="translate(28.28 70)"><tspan x="0" y="0">15</tspan></text>
+     <text transform="translate(36.6 70)"><tspan x="0" y="0">2</tspan></text>
+     <text transform="translate(36.6 70)"><tspan x="0" y="0">2</tspan></text>
+     <text transform="translate(36.6 70)"><tspan x="0" y="0">2</tspan></text>
+     <text transform="translate(51.6 70)"><tspan x="0" y="0">4</tspan></text>
+     <text transform="translate(51.6 70)"><tspan x="0" y="0">4</tspan></text>
+     <text transform="translate(51.6 70)"><tspan x="0" y="0">4</tspan></text>
+     <text transform="translate(44.1 70)"><tspan x="0" y="0">0</tspan></text>
+     <text transform="translate(44.1 70)"><tspan x="0" y="0">0</tspan></text>
+     <text transform="translate(44.1 70)"><tspan x="0" y="0">0</tspan></text>
+     <text transform="translate(58.28 70)"><tspan x="0" y="0">16</tspan></text>
+     <text transform="translate(58.28 70)"><tspan x="0" y="0">16</tspan></text>
+     <text transform="translate(58.28 70)"><tspan x="0" y="0">16</tspan></text>
+     <text transform="translate(65.78 70)"><tspan x="0" y="0">17</tspan></text>
+     <text transform="translate(65.78 70)"><tspan x="0" y="0">17</tspan></text>
+     <text transform="translate(65.78 70)"><tspan x="0" y="0">17</tspan></text>
+     <text transform="translate(80.78 70)"><tspan x="0" y="0">18</tspan></text>
+     <text transform="translate(80.78 70)"><tspan x="0" y="0">18</tspan></text>
+     <text transform="translate(80.78 70)"><tspan x="0" y="0">18</tspan></text>
+     <text transform="translate(88.28 70)"><tspan x="0" y="0">19</tspan></text>
+     <text transform="translate(88.28 70)"><tspan x="0" y="0">19</tspan></text>
+     <text transform="translate(88.28 70)"><tspan x="0" y="0">19</tspan></text>
+     <text transform="translate(94.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(94.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(94.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(139.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(139.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(139.28 70)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(103.28 70)"><tspan x="0" y="0">21</tspan></text>
+     <text transform="translate(103.28 70)"><tspan x="0" y="0">21</tspan></text>
+     <text transform="translate(103.28 70)"><tspan x="0" y="0">21</tspan></text>
+     <text transform="translate(125.77 70)"><tspan x="0" y="0">22</tspan></text>
+     <text transform="translate(125.77 70)"><tspan x="0" y="0">22</tspan></text>
+     <text transform="translate(125.77 70)"><tspan x="0" y="0">22</tspan></text>
+     <text transform="translate(133.27 70)"><tspan x="0" y="0">23</tspan></text>
+     <text transform="translate(133.27 70)"><tspan x="0" y="0">23</tspan></text>
+     <text transform="translate(133.27 70)"><tspan x="0" y="0">23</tspan></text>
+    </g>
+    <text transform="translate(110.55 70)"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X</tspan></text>
+    <text transform="translate(110.55 70)"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X</tspan></text>
+    <text transform="translate(110.55 70)"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X</tspan></text>
+    <g letter-spacing="-.05em">
+     <text transform="translate(118.14 70)"><tspan x="0" y="0">TX</tspan></text>
+     <text transform="translate(118.14 70)"><tspan x="0" y="0">TX</tspan></text>
+     <text transform="translate(118.14 70)"><tspan x="0" y="0">TX</tspan></text>
+     <text transform="translate(74.1 70)"><tspan x="0" y="0">5</tspan></text>
+     <text transform="translate(74.1 70)"><tspan x="0" y="0">5</tspan></text>
+     <text transform="translate(74.1 70)"><tspan x="0" y="0">5</tspan></text>
+     <text transform="translate(145.73 7.5) rotate(180)"><tspan x="0" y="0">3V3</tspan></text>
+     <text transform="translate(145.73 7.5) rotate(180)"><tspan x="0" y="0">3V3</tspan></text>
+     <text transform="translate(145.73 7.5) rotate(180)"><tspan x="0" y="0">3V3</tspan></text>
+     <text transform="translate(137.46 7.5) rotate(180)"><tspan x="0" y="0">EN</tspan></text>
+     <text transform="translate(137.46 7.5) rotate(180)"><tspan x="0" y="0">EN</tspan></text>
+     <text transform="translate(137.46 7.5) rotate(180)"><tspan x="0" y="0">EN</tspan></text>
+     <text transform="translate(129.99 7.5) rotate(180)"><tspan x="0" y="0">VP</tspan></text>
+     <text transform="translate(129.99 7.5) rotate(180)"><tspan x="0" y="0">VP</tspan></text>
+     <text transform="translate(129.99 7.5) rotate(180)"><tspan x="0" y="0">VP</tspan></text>
+     <text transform="translate(122.63 7.5) rotate(180)"><tspan x="0" y="0">VN</tspan></text>
+     <text transform="translate(122.63 7.5) rotate(180)"><tspan x="0" y="0">VN</tspan></text>
+     <text transform="translate(122.63 7.5) rotate(180)"><tspan x="0" y="0">VN</tspan></text>
+     <text transform="translate(114.74 7.5) rotate(180)"><tspan x="0" y="0">34</tspan></text>
+     <text transform="translate(114.74 7.5) rotate(180)"><tspan x="0" y="0">34</tspan></text>
+     <text transform="translate(114.74 7.5) rotate(180)"><tspan x="0" y="0">34</tspan></text>
+     <text transform="translate(99.74 7.5) rotate(180)"><tspan x="0" y="0">32</tspan></text>
+     <text transform="translate(99.74 7.5) rotate(180)"><tspan x="0" y="0">32</tspan></text>
+     <text transform="translate(99.74 7.5) rotate(180)"><tspan x="0" y="0">32</tspan></text>
+     <text transform="translate(107.24 7.5) rotate(180)"><tspan x="0" y="0">35</tspan></text>
+     <text transform="translate(107.24 7.5) rotate(180)"><tspan x="0" y="0">35</tspan></text>
+     <text transform="translate(107.24 7.5) rotate(180)"><tspan x="0" y="0">35</tspan></text>
+     <text transform="translate(92.24 7.5) rotate(180)"><tspan x="0" y="0">33</tspan></text>
+     <text transform="translate(92.24 7.5) rotate(180)"><tspan x="0" y="0">33</tspan></text>
+     <text transform="translate(92.24 7.5) rotate(180)"><tspan x="0" y="0">33</tspan></text>
+     <text transform="translate(84.74 7.5) rotate(180)"><tspan x="0" y="0">25</tspan></text>
+     <text transform="translate(84.74 7.5) rotate(180)"><tspan x="0" y="0">25</tspan></text>
+     <text transform="translate(84.74 7.5) rotate(180)"><tspan x="0" y="0">25</tspan></text>
+     <text transform="translate(69.74 7.5) rotate(180)"><tspan x="0" y="0">27</tspan></text>
+     <text transform="translate(69.74 7.5) rotate(180)"><tspan x="0" y="0">27</tspan></text>
+     <text transform="translate(69.74 7.5) rotate(180)"><tspan x="0" y="0">27</tspan></text>
+     <text transform="translate(62.24 7.5) rotate(180)"><tspan x="0" y="0">24</tspan></text>
+     <text transform="translate(62.24 7.5) rotate(180)"><tspan x="0" y="0">24</tspan></text>
+     <text transform="translate(62.24 7.5) rotate(180)"><tspan x="0" y="0">24</tspan></text>
+     <text transform="translate(54.74 7.5) rotate(180)"><tspan x="0" y="0">12</tspan></text>
+     <text transform="translate(54.74 7.5) rotate(180)"><tspan x="0" y="0">12</tspan></text>
+     <text transform="translate(54.74 7.5) rotate(180)"><tspan x="0" y="0">12</tspan></text>
+     <text transform="translate(9.91 7.5) rotate(180)"><tspan x="0" y="0">5V</tspan></text>
+     <text transform="translate(9.91 7.5) rotate(180)"><tspan x="0" y="0">5V</tspan></text>
+     <text transform="translate(9.91 7.5) rotate(180)"><tspan x="0" y="0">5V</tspan></text>
+     <text transform="translate(48.73 7.5) rotate(180)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(48.73 7.5) rotate(180)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(48.73 7.5) rotate(180)"><tspan x="0" y="0">GND</tspan></text>
+     <text transform="translate(24.98 7.5) rotate(180)"><tspan x="0" y="0">D3</tspan></text>
+     <text transform="translate(24.98 7.5) rotate(180)"><tspan x="0" y="0">D3</tspan></text>
+     <text transform="translate(24.98 7.5) rotate(180)"><tspan x="0" y="0">D3</tspan></text>
+     <text transform="translate(18.83 7.5) rotate(180)"><tspan x="0" y="0">CMD</tspan></text>
+     <text transform="translate(18.83 7.5) rotate(180)"><tspan x="0" y="0">CMD</tspan></text>
+     <text transform="translate(18.83 7.5) rotate(180)"><tspan x="0" y="0">CMD</tspan></text>
+     <text transform="translate(39.74 7.5) rotate(180)"><tspan x="0" y="0">13</tspan></text>
+     <text transform="translate(39.74 7.5) rotate(180)"><tspan x="0" y="0">13</tspan></text>
+     <text transform="translate(39.74 7.5) rotate(180)"><tspan x="0" y="0">13</tspan></text>
+     <text transform="translate(32.48 7.5) rotate(180)"><tspan x="0" y="0">D2</tspan></text>
+     <text transform="translate(32.48 7.5) rotate(180)"><tspan x="0" y="0">D2</tspan></text>
+     <text transform="translate(32.48 7.5) rotate(180)"><tspan x="0" y="0">D2</tspan></text>
+     <text transform="translate(77.24 7.5) rotate(180)"><tspan x="0" y="0">26</tspan></text>
+     <text transform="translate(77.24 7.5) rotate(180)"><tspan x="0" y="0">26</tspan></text>
+     <text transform="translate(77.24 7.5) rotate(180)"><tspan x="0" y="0">26</tspan></text>
+    </g>
+   </g>
+   <text transform="translate(133.75 24.2) rotate(90)"><tspan font-size="6"><tspan x="0" y="0" letter-spacing="-.06em">E</tspan><tspan x="3.22" y="0" letter-spacing="-.05em">SPR</tspan><tspan x="14.14" y="0" letter-spacing="-.06em">E</tspan><tspan x="17.36" y="0" letter-spacing="-.05em">SSIF</tspan></tspan><tspan font-size="4"><tspan x="-2.81" y="5" letter-spacing="-.05em">EPS32</tspan><tspan x="8.51" y="5" letter-spacing="-.1em">-</tspan><tspan x="9.84" y="5" letter-spacing="-.05em">W</tspan><tspan x="14.1" y="5" letter-spacing="-.06em">R</tspan><tspan x="16.62" y="5" letter-spacing="-.05em">OOM-32</tspan></tspan></text>
+   <text transform="translate(133.75 24.2) rotate(90)"><tspan font-size="6"><tspan x="0" y="0" letter-spacing="-.06em">E</tspan><tspan x="3.22" y="0" letter-spacing="-.05em">SPR</tspan><tspan x="14.14" y="0" letter-spacing="-.06em">E</tspan><tspan x="17.36" y="0" letter-spacing="-.05em">SSIF</tspan></tspan><tspan font-size="4"><tspan x="-2.81" y="5" letter-spacing="-.05em">EPS32</tspan><tspan x="8.51" y="5" letter-spacing="-.1em">-</tspan><tspan x="9.84" y="5" letter-spacing="-.05em">W</tspan><tspan x="14.1" y="5" letter-spacing="-.06em">R</tspan><tspan x="16.62" y="5" letter-spacing="-.05em">OOM-32</tspan></tspan></text>
+   <text transform="translate(133.75 24.2) rotate(90)"><tspan font-size="6"><tspan x="0" y="0" letter-spacing="-.06em">E</tspan><tspan x="3.22" y="0" letter-spacing="-.05em">SPR</tspan><tspan x="14.14" y="0" letter-spacing="-.06em">E</tspan><tspan x="17.36" y="0" letter-spacing="-.05em">SSIF</tspan></tspan><tspan font-size="4"><tspan x="-2.81" y="5" letter-spacing="-.05em">EPS32</tspan><tspan x="8.51" y="5" letter-spacing="-.1em">-</tspan><tspan x="9.84" y="5" letter-spacing="-.05em">W</tspan><tspan x="14.1" y="5" letter-spacing="-.06em">R</tspan><tspan x="16.62" y="5" letter-spacing="-.05em">OOM-32</tspan></tspan></text>
+  </g>
+  <circle cx="7.5" cy="5" r="1"/>
+  <circle cx="15" cy="5" r="1"/>
+  <circle cx="22.5" cy="5" r="1"/>
+  <circle cx="30" cy="5" r="1"/>
+  <circle cx="37.5" cy="5" r="1"/>
+  <circle cx="45" cy="5" r="1"/>
+  <circle cx="52.5" cy="5" r="1"/>
+  <circle cx="60" cy="5" r="1"/>
+  <circle cx="67.5" cy="5" r="1"/>
+  <circle cx="75" cy="5" r="1"/>
+  <circle cx="82.5" cy="5" r="1"/>
+  <circle cx="90" cy="5" r="1"/>
+  <circle cx="97.5" cy="5" r="1"/>
+  <circle cx="105" cy="5" r="1"/>
+  <circle cx="112.5" cy="5" r="1"/>
+  <circle cx="120" cy="5" r="1"/>
+  <circle cx="127.5" cy="5" r="1"/>
+  <circle cx="135" cy="5" r="1"/>
+  <circle cx="142.5" cy="5" r="1"/>
+  <circle cx="7.5" cy="72.5" r="1"/>
+  <circle cx="15" cy="72.5" r="1"/>
+  <circle cx="22.5" cy="72.5" r="1"/>
+  <circle cx="30" cy="72.5" r="1"/>
+  <circle cx="37.5" cy="72.5" r="1"/>
+  <circle cx="45" cy="72.5" r="1"/>
+  <circle cx="52.5" cy="72.5" r="1"/>
+  <circle cx="60" cy="72.5" r="1"/>
+  <circle cx="67.5" cy="72.5" r="1"/>
+  <circle cx="75" cy="72.5" r="1"/>
+  <circle cx="82.5" cy="72.5" r="1"/>
+  <circle cx="90" cy="72.5" r="1"/>
+  <circle cx="97.5" cy="72.5" r="1"/>
+  <circle cx="105" cy="72.5" r="1"/>
+  <circle cx="112.5" cy="72.5" r="1"/>
+  <circle cx="120" cy="72.5" r="1"/>
+  <circle cx="127.5" cy="72.5" r="1"/>
+  <circle cx="135" cy="72.5" r="1"/>
+  <circle cx="142.5" cy="72.5" r="1"/>
+ </g>
+ <rect x="2.5" width="145" height="77.5" rx="1.97" ry="1.97" fill="#2d3142"/>
+ <path d="M166.5,63.75h-22.75V13.75h22.75c.55,0,1,.45,1,1v48c0,.55-.45,1-1,1Z" fill="#404660"/>
+ <path d="M146.25,63.75v1.5c0,.55-.45,1-1,1h-71.75c-.55,0-1-.45-1-1V12.25c0-.55.45-1,1-1h71.75c.55,0,1,.45,1,1v1.5" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width=".5"/>
+ <rect x="38.75" y="15" width="3.75" height="2.5" fill="#fbdd71"/>
+ <rect x="37.5" y="15" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="42.5" y="15" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="28.75" y="30" width="15" height="15" fill="#404660"/>
+ <g fill="#a4a7b3">
+  <rect x="30" y="28.75" width=".96" height="1.25"/>
+  <rect x="31.92" y="28.75" width=".96" height="1.25"/>
+  <rect x="33.85" y="28.75" width=".96" height="1.25"/>
+  <rect x="35.77" y="28.75" width=".96" height="1.25"/>
+  <rect x="37.69" y="28.75" width=".96" height="1.25"/>
+  <rect x="39.62" y="28.75" width=".96" height="1.25"/>
+  <rect x="41.54" y="28.75" width=".96" height="1.25"/>
+  <rect x="30" y="45" width=".96" height="1.25"/>
+  <rect x="31.92" y="45" width=".96" height="1.25"/>
+  <rect x="33.85" y="45" width=".96" height="1.25"/>
+  <rect x="35.77" y="45" width=".96" height="1.25"/>
+  <rect x="37.69" y="45" width=".96" height="1.25"/>
+  <rect x="39.62" y="45" width=".96" height="1.25"/>
+  <rect x="41.54" y="45" width=".96" height="1.25"/>
+  <rect x="27.5" y="42.79" width="1.25" height=".96"/>
+  <rect x="27.5" y="40.87" width="1.25" height=".96"/>
+  <rect x="27.5" y="38.94" width="1.25" height=".96"/>
+  <rect x="27.5" y="37.02" width="1.25" height=".96"/>
+  <rect x="27.5" y="35.1" width="1.25" height=".96"/>
+  <rect x="27.5" y="33.17" width="1.25" height=".96"/>
+  <rect x="27.5" y="31.25" width="1.25" height=".96"/>
+  <rect x="43.75" y="42.79" width="1.25" height=".96"/>
+  <rect x="43.75" y="40.87" width="1.25" height=".96"/>
+  <rect x="43.75" y="38.94" width="1.25" height=".96"/>
+  <rect x="43.75" y="37.02" width="1.25" height=".96"/>
+  <rect x="43.75" y="35.1" width="1.25" height=".96"/>
+  <rect x="43.75" y="33.17" width="1.25" height=".96"/>
+  <rect x="43.75" y="31.25" width="1.25" height=".96"/>
+  <rect x="50" y="28.75" width="3.75" height="5"/>
+  <rect x="56.88" y="28.75" width="3.75" height="5"/>
+  <rect x="63.75" y="28.75" width="3.75" height="5"/>
+ </g>
+ <rect x="52.5" y="45" width="12.5" height="6.25" fill="#d8d9db"/>
+ <rect x="53.75" y="45" width="10" height="3.75" fill="#a4a7b3"/>
+ <rect x="6.25" y="11.25" width="13.75" height="10" rx="1" ry="1" fill="none" stroke="#e7e8eb" stroke-miterlimit="10" stroke-width=".5"/>
+ <rect x="3.75" y="14.38" width="5.62" height="3.75" fill="#a4a7b3"/>
+ <rect x="16.88" y="14.38" width="5.62" height="3.75" fill="#a4a7b3"/>
+ <polyline points="148.75 16.25 165 16.25 165 23.75 151.25 23.75 151.25 31.25 165 31.25 165 38.75 151.25 38.75 151.25 46.25 165 46.25 165 61.25 147.5 61.25" fill="none" stroke="#2d3142" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <line x1="147.5" x2="165" y1="53.75" y2="53.75" fill="none" stroke="#2d3142" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+ <g fill="#a4a7b3">
+  <rect x="73.75" y="12.5" width="2.5" height="5"/>
+  <rect x="77.5" y="12.5" width="2.5" height="5"/>
+  <rect x="81.25" y="12.5" width="2.5" height="5"/>
+  <rect x="85" y="12.5" width="2.5" height="5"/>
+  <path d="M90.31,14.37c-.52,0-.94.42-.94.94v2.19h-.62v-5h2.5v1.87h-.94Z"/>
+  <rect x="92.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="96.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="100" y="12.5" width="2.5" height="1.25"/>
+  <rect x="103.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="107.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="111.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="115" y="12.5" width="2.5" height="1.25"/>
+  <rect x="118.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="122.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="126.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="130" y="12.5" width="2.5" height="1.25"/>
+  <rect x="133.75" y="12.5" width="2.5" height="1.25"/>
+  <rect x="137.5" y="12.5" width="2.5" height="1.25"/>
+  <rect x="141.25" y="12.5" width="2.5" height="1.25"/>
+  <rect x="73.75" y="60" width="2.5" height="5"/>
+  <rect x="77.5" y="60" width="2.5" height="5"/>
+  <rect x="81.25" y="60" width="2.5" height="5"/>
+  <rect x="85" y="60" width="2.5" height="5"/>
+  <path d="M90.31,63.13c-.52,0-.94-.42-.94-.94v-2.19h-.62v5h2.5v-1.87h-.94Z"/>
+  <rect x="92.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="96.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="100" y="63.75" width="2.5" height="1.25"/>
+  <rect x="103.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="107.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="111.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="115" y="63.75" width="2.5" height="1.25"/>
+  <rect x="118.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="122.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="126.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="130" y="63.75" width="2.5" height="1.25"/>
+  <rect x="133.75" y="63.75" width="2.5" height="1.25"/>
+  <rect x="137.5" y="63.75" width="2.5" height="1.25"/>
+  <rect x="141.25" y="63.75" width="2.5" height="1.25"/>
+  <rect x="85" y="21.25" width="3.75" height="2.5"/>
+  <rect x="85" y="25" width="3.75" height="2.5"/>
+  <rect x="85" y="28.75" width="3.75" height="2.5"/>
+  <rect x="85" y="32.5" width="3.75" height="2.5"/>
+  <rect x="85" y="36.25" width="3.75" height="2.5"/>
+  <rect x="85" y="40" width="3.75" height="2.5"/>
+  <rect x="85" y="43.75" width="3.75" height="2.5"/>
+  <rect x="85" y="47.5" width="3.75" height="2.5"/>
+  <rect x="85" y="51.25" width="3.75" height="2.5"/>
+  <rect x="85" y="55" width="3.75" height="2.5"/>
+  <rect x="15" y="34.37" width="3.75" height=".97"/>
+  <rect x="15" y="36.32" width="3.75" height=".97"/>
+  <rect x="15" y="38.26" width="3.75" height=".97"/>
+  <rect x="15" y="40.21" width="3.75" height=".97"/>
+  <rect x="15" y="42.15" width="3.75" height=".97"/>
+  <rect x="15" y="26.87" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="5" y="26.87" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="15" y="48.12" width="5" height="2.5" rx=".71" ry=".71"/>
+  <rect x="5" y="48.12" width="5" height="2.5" rx=".71" ry=".71"/>
+ </g>
+ <rect x="12.5" y="31.87" width="2.5" height="2.5" fill="#404660"/>
+ <rect x="12.5" y="43.12" width="2.5" height="2.5" fill="#404660"/>
+ <path d="M1.25,49.37h16.25v-2.75c0-.55-.45-1-1-1h-4v-2.5h2.5v-8.75h-2.5v-2.5h4c.55,0,1-.45,1-1v-2.75H1.25l-1.25-1.25v1.25l.96.96c.19.19.29.44.29.71v.84h-.75c-.28,0-.5.22-.5.5v15.25c0,.28.22.5.5.5h.75v.84c0,.27-.11.52-.29.71l-.96.96v1.25l1.25-1.25Z" fill="#d8d9db"/>
+ <circle cx="7.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M7.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M7.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="15" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M15,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M15,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="22.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M22.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M22.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="30" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M30,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M30,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="37.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M37.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M37.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="45" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M45,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M45,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="52.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M52.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M52.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="60" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M60,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M60,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="67.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M67.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M67.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="75" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M75,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M75,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="82.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M82.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M82.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="90" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M90,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M90,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="97.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M97.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M97.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="105" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M105,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M105,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="112.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M112.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M112.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="120" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M120,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M120,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="127.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M127.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M127.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="135" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M135,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M135,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="142.5" cy="5" r="1.62" fill="#a4a7b3"/>
+ <path d="M142.5,3.75c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M142.5,3c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="7.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M7.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M7.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="15" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M15,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M15,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="22.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M22.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M22.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="30" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M30,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M30,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="37.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M37.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M37.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="45" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M45,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M45,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="52.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M52.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M52.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="60" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M60,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M60,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="67.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M67.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M67.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="75" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M75,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M75,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="82.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M82.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M82.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="90" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M90,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M90,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="97.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M97.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M97.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="105" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M105,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M105,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="112.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M112.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M112.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="120" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M120,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M120,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="127.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M127.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M127.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="135" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M135,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M135,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <circle cx="142.5" cy="72.5" r="1.62" fill="#a4a7b3"/>
+ <path d="M142.5,71.25c.69,0,1.25.56,1.25,1.25s-.56,1.25-1.25,1.25-1.25-.56-1.25-1.25.56-1.25,1.25-1.25M142.5,70.5c-1.1,0-2,.9-2,2s.9,2,2,2,2-.9,2-2-.9-2-2-2h0Z" fill="#f7a541"/>
+ <rect x="51.25" y="22.5" width="3.75" height="2.5" fill="#d99d5b"/>
+ <rect x="55" y="22.5" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="50" y="22.5" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="62.5" y="16.25" width="3.75" height="2.5" fill="#d99d5b"/>
+ <rect x="66.25" y="16.25" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="61.25" y="16.25" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="62.5" y="22.5" width="3.75" height="2.5" fill="#d99d5b"/>
+ <rect x="66.25" y="22.5" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="61.25" y="22.5" width="1.25" height="2.5" fill="#d8d9db"/>
+ <rect x="30" y="16.25" width="2.5" height="1.25" fill="#404660"/>
+ <rect x="32.5" y="16.25" width="1.25" height="1.25" fill="#a4a7b3"/>
+ <rect x="28.75" y="16.25" width="1.25" height="1.25" fill="#a4a7b3"/>
+ <rect x="55" y="16.87" width="1.25" height="2.5" fill="#d99d5b"/>
+ <rect x="55" y="19.37" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="55" y="16.25" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="52.5" y="16.87" width="1.25" height="2.5" fill="#404660"/>
+ <rect x="52.5" y="19.37" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="52.5" y="16.25" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="50" y="16.87" width="1.25" height="2.5" fill="#d99d5b"/>
+ <rect x="50" y="19.37" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="50" y="16.25" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="43.75" y="23.13" width="1.25" height="2.5" fill="#d99d5b"/>
+ <rect x="43.75" y="25.63" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="43.75" y="22.5" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="41.25" y="23.13" width="1.25" height="2.5" fill="#d99d5b"/>
+ <rect x="41.25" y="25.63" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="41.25" y="22.5" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="37.5" y="23.12" width="1.25" height="2.5" fill="#404660"/>
+ <rect x="37.5" y="25.62" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="37.5" y="22.5" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="35" y="23.12" width="1.25" height="2.5" fill="#404660"/>
+ <rect x="35" y="25.62" width="1.25" height=".62" fill="#a4a7b3"/>
+ <rect x="35" y="22.5" width="1.25" height=".63" fill="#a4a7b3"/>
+ <rect x="29.38" y="25" width="2.5" height="1.25" fill="#404660"/>
+ <rect x="28.75" y="25" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="31.88" y="25" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="29.38" y="22.5" width="2.5" height="1.25" fill="#404660"/>
+ <rect x="28.75" y="22.5" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="31.88" y="22.5" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="16.88" y="23.75" width="2.5" height="1.25" fill="#d99d5b"/>
+ <rect x="16.25" y="23.75" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="19.38" y="23.75" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="41.88" y="48.75" width="1.25" height="1.25" fill="#404660"/>
+ <rect x="41.25" y="48.75" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="43.13" y="48.75" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="41.88" y="51.25" width="1.25" height="1.25" fill="#404660"/>
+ <rect x="41.25" y="51.25" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="43.13" y="51.25" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="29.38" y="48.75" width="1.25" height="1.25" fill="#404660"/>
+ <rect x="28.75" y="48.75" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="30.63" y="48.75" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="29.38" y="51.25" width="1.25" height="1.25" fill="#404660"/>
+ <rect x="28.75" y="51.25" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="30.63" y="51.25" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="56.25" y="56.25" width="5" height="8.75" fill="#404660"/>
+ <g fill="#a4a7b3">
+  <rect x="53.75" y="57.5" width="2.5" height="1.25"/>
+  <rect x="53.75" y="62.5" width="2.5" height="1.25"/>
+  <rect x="61.25" y="60" width="2.5" height="1.25"/>
+ </g>
+ <rect x="33.75" y="56.25" width="5" height="8.75" fill="#404660"/>
+ <g fill="#a4a7b3">
+  <rect x="38.75" y="62.5" width="2.5" height="1.25"/>
+  <rect x="38.75" y="57.5" width="2.5" height="1.25"/>
+  <rect x="31.25" y="60" width="2.5" height="1.25"/>
+ </g>
+ <rect x="90" y="15" width="55" height="47.5" rx="1" ry="1" fill="#d8d9db"/>
+ <g fill="#f7a541">
+  <rect x="141.25" y="13.75" width="2.5" height=".62"/>
+  <rect x="137.5" y="13.75" width="2.5" height=".62"/>
+  <rect x="133.75" y="13.75" width="2.5" height=".62"/>
+  <rect x="130" y="13.75" width="2.5" height=".62"/>
+  <rect x="126.25" y="13.75" width="2.5" height=".62"/>
+  <rect x="122.5" y="13.75" width="2.5" height=".62"/>
+  <rect x="118.75" y="13.75" width="2.5" height=".62"/>
+  <rect x="115" y="13.75" width="2.5" height=".62"/>
+  <rect x="111.25" y="13.75" width="2.5" height=".62"/>
+  <rect x="107.5" y="13.75" width="2.5" height=".62"/>
+  <rect x="103.75" y="13.75" width="2.5" height=".62"/>
+  <rect x="100" y="13.75" width="2.5" height=".62"/>
+  <rect x="96.25" y="13.75" width="2.5" height=".62"/>
+  <rect x="92.5" y="13.75" width="2.5" height=".62"/>
+  <rect x="141.25" y="63.12" width="2.5" height=".62"/>
+  <rect x="137.5" y="63.12" width="2.5" height=".62"/>
+  <rect x="133.75" y="63.12" width="2.5" height=".62"/>
+  <rect x="130" y="63.12" width="2.5" height=".62"/>
+  <rect x="126.25" y="63.12" width="2.5" height=".62"/>
+  <rect x="122.5" y="63.12" width="2.5" height=".62"/>
+  <rect x="118.75" y="63.12" width="2.5" height=".62"/>
+  <rect x="115" y="63.12" width="2.5" height=".62"/>
+  <rect x="111.25" y="63.12" width="2.5" height=".62"/>
+  <rect x="107.5" y="63.12" width="2.5" height=".62"/>
+  <rect x="103.75" y="63.12" width="2.5" height=".62"/>
+  <rect x="100" y="63.12" width="2.5" height=".62"/>
+  <rect x="96.25" y="63.12" width="2.5" height=".62"/>
+  <rect x="92.5" y="63.12" width="2.5" height=".62"/>
+  <rect x="88.75" y="21.25" width=".62" height="2.5"/>
+  <rect x="88.75" y="25" width=".62" height="2.5"/>
+  <rect x="88.75" y="28.75" width=".62" height="2.5"/>
+  <rect x="88.75" y="32.5" width=".62" height="2.5"/>
+  <rect x="88.75" y="36.25" width=".62" height="2.5"/>
+  <rect x="88.75" y="40" width=".62" height="2.5"/>
+  <rect x="88.75" y="43.75" width=".62" height="2.5"/>
+  <rect x="88.75" y="47.5" width=".62" height="2.5"/>
+  <rect x="88.75" y="51.25" width=".62" height="2.5"/>
+  <rect x="88.75" y="55" width=".62" height="2.5"/>
+ </g>
+ <rect x="53.75" y="46.25" width="10" height="1.25" fill="#e86b59"/>
+ <polygon points="18.12 14.38 18.12 15.63 18.75 15.63 18.75 16.88 18.12 16.88 18.12 18.13 18.75 18.13 18.75 19.37 17.5 19.37 17.5 20 8.75 20 8.75 19.37 7.5 19.37 7.5 18.13 8.12 18.13 8.12 16.88 7.5 16.88 7.5 15.63 8.12 15.63 8.12 14.38 7.5 14.38 7.5 13.12 8.75 13.12 8.75 12.5 17.5 12.5 17.5 13.12 18.75 13.12 18.75 14.38" fill="#d8d9db"/>
+ <circle cx="13.12" cy="16.25" r="2.5" fill="#404660"/>
+ <rect x="6.25" y="56.25" width="13.75" height="10" rx="1" ry="1" fill="none" stroke="#e7e8eb" stroke-miterlimit="10" stroke-width=".5"/>
+ <rect x="3.75" y="59.38" width="5.62" height="3.75" fill="#a4a7b3"/>
+ <rect x="16.88" y="59.38" width="5.62" height="3.75" fill="#a4a7b3"/>
+ <polygon points="18.12 59.38 18.12 60.63 18.75 60.63 18.75 61.88 18.12 61.88 18.12 63.13 18.75 63.13 18.75 64.37 17.5 64.37 17.5 65 8.75 65 8.75 64.37 7.5 64.37 7.5 63.13 8.12 63.13 8.12 61.88 7.5 61.88 7.5 60.63 8.12 60.63 8.12 59.38 7.5 59.38 7.5 58.12 8.75 58.12 8.75 57.5 17.5 57.5 17.5 58.12 18.75 58.12 18.75 59.38" fill="#d8d9db"/>
+ <g fill="#404660">
+  <circle cx="13.12" cy="61.25" r="2.5"/>
+  <path d="M96.88,20.31c0,.86-.7,1.56-1.56,1.56s-1.56-.7-1.56-1.56.7-1.56,1.56-1.56,1.56.7,1.56,1.56Z"/>
+  <rect x="48.75" y="33.75" width="20" height="11.25"/>
+  <rect x="22.5" y="36.25" width="2.5" height="1.25"/>
+  <rect x="22.5" y="40" width="2.5" height="1.25"/>
+  <rect x="22.5" y="43.75" width="2.5" height="1.25"/>
+ </g>
+ <g fill="#a4a7b3">
+  <rect x="25" y="36.25" width=".62" height="1.25"/>
+  <rect x="25" y="40" width=".62" height="1.25"/>
+  <rect x="25" y="43.75" width=".62" height="1.25"/>
+  <rect x="21.88" y="36.25" width=".62" height="1.25"/>
+  <rect x="21.88" y="40" width=".62" height="1.25"/>
+  <rect x="21.88" y="43.75" width=".62" height="1.25"/>
+ </g>
+ <g fill="none" stroke="#e7e8eb" stroke-miterlimit="10" stroke-width=".5">
+  <rect x="40" y="47.5" width="5" height="6.25" rx="1" ry="1"/>
+  <rect x="27.5" y="47.5" width="5" height="6.25" rx="1" ry="1"/>
+  <rect x="60" y="15" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="60" y="21.25" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="48.75" y="21.25" width="8.75" height="5" rx="1" ry="1"/>
+  <rect x="48.75" y="15" width="8.75" height="6.25" rx="1" ry="1"/>
+  <path d="M66.25,47.25v4.25c0,.55-.45,1-1,1h-13c-.55,0-1-.45-1-1v-4.25c0-.55-.45-1-1-1h-1.75c-.55,0-1-.45-1-1v-16.75c0-.55.45-1,1-1h20.5c.55,0,1,.45,1,1v16.75c0,.55-.45,1-1,1h-1.75c-.55,0-1,.45-1,1Z"/>
+  <rect x="52.5" y="55" width="12.5" height="11.25" rx="1" ry="1"/>
+  <rect x="30" y="55" width="12.5" height="11.25" rx="1" ry="1"/>
+  <path d="M38.75,18.75h-1.5c-.55,0-1-.45-1-1v-3c0-.55.45-1,1-1h1.5"/>
+  <path d="M42.5,13.75h1.5c.55,0,1,.45,1,1v3c0,.55-.45,1-1,1h-1.5"/>
+  <rect x="27.5" y="15" width="7.5" height="3.75" rx="1" ry="1"/>
+  <rect x="40" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="33.75" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="27.5" y="21.25" width="6.25" height="6.25" rx="1" ry="1"/>
+  <rect x="15" y="22.5" width="6.25" height="3.75" rx="1" ry="1"/>
+ </g>
+ <rect x="16.88" y="52.5" width="2.5" height="1.25" fill="#d99d5b"/>
+ <rect x="16.25" y="52.5" width=".62" height="1.25" fill="#a4a7b3"/>
+ <rect x="19.38" y="52.5" width=".63" height="1.25" fill="#a4a7b3"/>
+ <rect x="15" y="51.25" width="6.25" height="3.75" rx="1" ry="1" fill="none" stroke="#e7e8eb" stroke-miterlimit="10" stroke-width=".5"/>
+ <rect x="22.5" y="22.5" width="3.75" height="3.75" fill="#404660"/>
+ <rect x="23.75" y="21.25" width="1.25" height="1.25" fill="#a4a7b3"/>
+ <rect x="23.75" y="26.25" width="1.25" height="1.25" fill="#a4a7b3"/>
+ <rect x="4.38" y="31.87" width="1.88" height="1.88" fill="#404660"/>
+ <path d="M4.38,33.75h-1.38c-.28,0-.5-.22-.5-.5v-.88c0-.28.22-.5.5-.5h1.38v1.88Z" fill="#a4a7b3"/>
+ <rect x="4.38" y="43.75" width="1.88" height="1.88" fill="#404660"/>
+ <path d="M4.38,45.62h-1.38c-.28,0-.5-.22-.5-.5v-.88c0-.28.22-.5.5-.5h1.38v1.88Z" fill="#a4a7b3"/>
+ <circle cx="147.5" cy="53.75" r="1" fill="#d99d5b"/>
+ <circle cx="147.5" cy="61.25" r="1" fill="#d99d5b"/>
+ <text transform="translate(23.75 13.03) rotate(90)" fill="#fff" font-family="Nunito-Bold, Nunito" font-size="4" font-weight="700" letter-spacing="-.05em"><tspan x="0" y="0">EN</tspan></text>
+ <text transform="translate(23.75 55.88) rotate(90)" fill="#fff" font-family="Nunito-Bold, Nunito" font-size="4" font-weight="700"><tspan x="0" y="0" letter-spacing="-.05em">BO</tspan><tspan x="5.49" y="0" letter-spacing="-.09em">O</tspan><tspan x="8.26" y="0" letter-spacing="-.05em">T</tspan></text>
+ <g fill="#e7e8eb" font-family="Nunito-Bold, Nunito" font-size="3" font-weight="700">
+  <g letter-spacing="-.05em">
+   <text transform="translate(4.79 70)"><tspan x="0" y="0">CLK</tspan></text>
+   <text transform="translate(13.03 70)"><tspan x="0" y="0">D0</tspan></text>
+   <text transform="translate(20.53 70)"><tspan x="0" y="0">D1</tspan></text>
+   <text transform="translate(28.28 70)"><tspan x="0" y="0">15</tspan></text>
+   <text transform="translate(36.6 70)"><tspan x="0" y="0">2</tspan></text>
+   <text transform="translate(51.6 70)"><tspan x="0" y="0">4</tspan></text>
+   <text transform="translate(44.1 70)"><tspan x="0" y="0">0</tspan></text>
+   <text transform="translate(58.28 70)"><tspan x="0" y="0">16</tspan></text>
+   <text transform="translate(65.78 70)"><tspan x="0" y="0">17</tspan></text>
+   <text transform="translate(80.78 70)"><tspan x="0" y="0">18</tspan></text>
+   <text transform="translate(88.28 70)"><tspan x="0" y="0">19</tspan></text>
+   <text transform="translate(94.28 70)"><tspan x="0" y="0">GND</tspan></text>
+   <text transform="translate(139.28 70)"><tspan x="0" y="0">GND</tspan></text>
+   <text transform="translate(103.28 70)"><tspan x="0" y="0">21</tspan></text>
+   <text transform="translate(125.77 70)"><tspan x="0" y="0">22</tspan></text>
+   <text transform="translate(133.27 70)"><tspan x="0" y="0">23</tspan></text>
+  </g>
+  <text transform="translate(110.55 70)"><tspan x="0" y="0" letter-spacing="-.06em">R</tspan><tspan x="1.88" y="0" letter-spacing="-.05em">X</tspan></text>
+  <g letter-spacing="-.05em">
+   <text transform="translate(118.14 70)"><tspan x="0" y="0">TX</tspan></text>
+   <text transform="translate(74.1 70)"><tspan x="0" y="0">5</tspan></text>
+   <text transform="translate(145.73 7.5) rotate(180)"><tspan x="0" y="0">3V3</tspan></text>
+   <text transform="translate(137.46 7.5) rotate(180)"><tspan x="0" y="0">EN</tspan></text>
+   <text transform="translate(129.99 7.5) rotate(180)"><tspan x="0" y="0">VP</tspan></text>
+   <text transform="translate(122.63 7.5) rotate(180)"><tspan x="0" y="0">VN</tspan></text>
+   <text transform="translate(114.74 7.5) rotate(180)"><tspan x="0" y="0">34</tspan></text>
+   <text transform="translate(99.74 7.5) rotate(180)"><tspan x="0" y="0">32</tspan></text>
+   <text transform="translate(107.24 7.5) rotate(180)"><tspan x="0" y="0">35</tspan></text>
+   <text transform="translate(92.24 7.5) rotate(180)"><tspan x="0" y="0">33</tspan></text>
+   <text transform="translate(84.74 7.5) rotate(180)"><tspan x="0" y="0">25</tspan></text>
+   <text transform="translate(69.74 7.5) rotate(180)"><tspan x="0" y="0">27</tspan></text>
+   <text transform="translate(62.24 7.5) rotate(180)"><tspan x="0" y="0">24</tspan></text>
+   <text transform="translate(54.74 7.5) rotate(180)"><tspan x="0" y="0">12</tspan></text>
+   <text transform="translate(9.91 7.5) rotate(180)"><tspan x="0" y="0">5V</tspan></text>
+   <text transform="translate(48.73 7.5) rotate(180)"><tspan x="0" y="0">GND</tspan></text>
+   <text transform="translate(24.98 7.5) rotate(180)"><tspan x="0" y="0">D3</tspan></text>
+   <text transform="translate(18.83 7.5) rotate(180)"><tspan x="0" y="0">CMD</tspan></text>
+   <text transform="translate(39.74 7.5) rotate(180)"><tspan x="0" y="0">13</tspan></text>
+   <text transform="translate(32.48 7.5) rotate(180)"><tspan x="0" y="0">D2</tspan></text>
+   <text transform="translate(77.24 7.5) rotate(180)"><tspan x="0" y="0">26</tspan></text>
+  </g>
+ </g>
+ <text transform="translate(133.75 24.2) rotate(90)" fill="#fff" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan font-size="6"><tspan x="0" y="0" letter-spacing="-.06em">E</tspan><tspan x="3.22" y="0" letter-spacing="-.05em">SPR</tspan><tspan x="14.14" y="0" letter-spacing="-.06em">E</tspan><tspan x="17.36" y="0" letter-spacing="-.05em">SSIF</tspan></tspan><tspan font-size="4"><tspan x="-2.81" y="5" letter-spacing="-.05em">EPS32</tspan><tspan x="8.51" y="5" letter-spacing="-.1em">-</tspan><tspan x="9.84" y="5" letter-spacing="-.05em">W</tspan><tspan x="14.1" y="5" letter-spacing="-.06em">R</tspan><tspan x="16.62" y="5" letter-spacing="-.05em">OOM-32</tspan></tspan></text>
+ <g fill="#a4a7b3">
+  <circle class="connection_point" cx="7.5" cy="5" r="1" data-pin-name="pin1"/>
+  <circle class="connection_point" cx="15" cy="5" r="1" data-pin-name="pin2"/>
+  <circle class="connection_point" cx="22.5" cy="5" r="1" data-pin-name="pin3"/>
+  <circle class="connection_point" cx="30" cy="5" r="1" data-pin-name="pin4"/>
+  <circle class="connection_point" cx="37.5" cy="5" r="1" data-pin-name="pin5"/>
+  <circle class="connection_point" cx="45" cy="5" r="1" data-pin-name="pin6"/>
+  <circle class="connection_point" cx="52.5" cy="5" r="1" data-pin-name="pin7"/>
+  <circle class="connection_point" cx="60" cy="5" r="1" data-pin-name="pin8"/>
+  <circle class="connection_point" cx="67.5" cy="5" r="1" data-pin-name="pin9"/>
+  <circle class="connection_point" cx="75" cy="5" r="1" data-pin-name="pin10"/>
+  <circle class="connection_point" cx="82.5" cy="5" r="1" data-pin-name="pin11"/>
+  <circle class="connection_point" cx="90" cy="5" r="1" data-pin-name="pin12"/>
+  <circle class="connection_point" cx="97.5" cy="5" r="1" data-pin-name="pin13"/>
+  <circle class="connection_point" cx="105" cy="5" r="1" data-pin-name="pin14"/>
+  <circle class="connection_point" cx="112.5" cy="5" r="1" data-pin-name="pin15"/>
+  <circle class="connection_point" cx="120" cy="5" r="1" data-pin-name="pin16"/>
+  <circle class="connection_point" cx="127.5" cy="5" r="1" data-pin-name="pin17"/>
+  <circle class="connection_point" cx="135" cy="5" r="1" data-pin-name="pin18"/>
+  <circle class="connection_point" cx="142.5" cy="5" r="1" data-pin-name="pin19"/>
+  <circle class="connection_point" cx="7.5" cy="72.5" r="1" data-pin-name="pin20"/>
+  <circle class="connection_point" cx="15" cy="72.5" r="1" data-pin-name="pin21"/>
+  <circle class="connection_point" cx="22.5" cy="72.5" r="1" data-pin-name="pin22"/>
+  <circle class="connection_point" cx="30" cy="72.5" r="1" data-pin-name="pin23"/>
+  <circle class="connection_point" cx="37.5" cy="72.5" r="1" data-pin-name="pin24"/>
+  <circle class="connection_point" cx="45" cy="72.5" r="1" data-pin-name="pin25"/>
+  <circle class="connection_point" cx="52.5" cy="72.5" r="1" data-pin-name="pin26"/>
+  <circle class="connection_point" cx="60" cy="72.5" r="1" data-pin-name="pin27"/>
+  <circle class="connection_point" cx="67.5" cy="72.5" r="1" data-pin-name="pin28"/>
+  <circle class="connection_point" cx="75" cy="72.5" r="1" data-pin-name="pin29"/>
+  <circle class="connection_point" cx="82.5" cy="72.5" r="1" data-pin-name="pin30"/>
+  <circle class="connection_point" cx="90" cy="72.5" r="1" data-pin-name="pin31"/>
+  <circle class="connection_point" cx="97.5" cy="72.5" r="1" data-pin-name="pin32"/>
+  <circle class="connection_point" cx="105" cy="72.5" r="1" data-pin-name="pin33"/>
+  <circle class="connection_point" cx="112.5" cy="72.5" r="1" data-pin-name="pin34"/>
+  <circle class="connection_point" cx="120" cy="72.5" r="1" data-pin-name="pin35"/>
+  <circle class="connection_point" cx="127.5" cy="72.5" r="1" data-pin-name="pin36"/>
+  <circle class="connection_point" cx="135" cy="72.5" r="1" data-pin-name="pin37"/>
+  <circle class="connection_point" cx="142.5" cy="72.5" r="1" data-pin-name="pin38"/>
+ </g>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="83.75" y="-5" text-anchor="middle" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="83.75" y="0" text-anchor="middle" style="display: none;"/></g><g data-source-id="1p85kwgsowe39djzzfq" data-source-name="Light-Emitting Diode (LED) Blue" data-variant-group="led" data-width="25" data-height="50" class="component" id="part_2" transform="translate(2425,2365) scale(1,1) rotate(90,12.5,25)"><rect class="helper-box" x="2.5" y="2.5" width="20" height="46" fill="none"/>
+  <path class="draggable1" d="m15 23.75 0.025 3.75 2.5 2.5v17.5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <path class="draggable2" d="m10 23.75v23.75" stroke="#7b7d86" stroke-linecap="round" stroke-width="2"/>
+  <path d="m22.5 21.5v2.25h-20v-2.25c0-0.82787 0.67213-1.5 1.5-1.5h17c0.82787 0 1.5 0.67213 1.5 1.5z" fill="#64b6d2"/>
+  <path d="m20 10v10h-15v-10c0-4.1394 3.3606-7.5 7.5-7.5h2e-5c4.1394 0 7.5 3.3606 7.5 7.5z" fill="#64b6d2"/>
+  <polygon points="10 10 17.5 10 17.5 15 7.5 15 7.5 11.25" fill="#2297bf"/>
+  <line x1="17.5" x2="17.5" y1="17.5" y2="10" fill="none" stroke="#2297bf" stroke-miterlimit="10" stroke-width=".75"/>
+  <line x1="7.5" x2="7.5" y1="17.5" y2="11.25" fill="none" stroke="#2297bf" stroke-miterlimit="10" stroke-width=".75"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="17.5" cy="47.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="10" cy="47.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="25" y="24" style="display: none;">D?</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="25" y="29" style="display: none;"/></g><g class="wireGroup wire-color-black" id="wireGroup_3" transform="translate(2375, 2225) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H-25" id="wireGroup_3-1"/><path class="wire" d="M-25,0 c0,0 -2.5,0 -2.5,2.5" id="wireGroup_3-2"/><path class="wire" d="M-27.5,2.5 L-27.5,55" id="wireGroup_3-3"/></g><g data-source-id="wa9ap7huukmptn1twrq" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_4" transform="translate(2402.5,2355) scale(1,1) rotate(180,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R?</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g data-source-id="84d8vkv1wsi5qn25jsm" data-source-name="Pushbutton (2-pin)" data-width="27.5" data-height="27.5" class="component" id="part_8" transform="translate(2420,2272.5) scale(1,1) rotate(90,13.75,13.75)"><rect class="helper-box" x="1.5" y="2.5" width="24.5" height="23.5" fill="none"/>
+ <path class="draggable1" d="m6.25 12.5h-1.25v5l-2.5 3.75v3.75" fill="none" stop-color="#000000" stroke="#7b7d86" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <path class="draggable2" d="m21.25 12.5h1.25v5l2.5 3.75v3.75" fill="none" stop-color="#000000" stroke="#7b7d86" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="-inkscape-stroke:none;font-variation-settings:normal"/>
+ <g stroke-width="0">
+  <polygon transform="translate(1.5,2.5)" points="21 15 18.5 15 18.5 13.75 6 13.75 6 15 3.5 15 3.5 8.12 21 8.12" fill="#2d3142"/>
+  <path d="m5 9.38h17.5v1.5c0 0.55-0.45 1-1 1h-15.5c-0.55 0-1-0.45-1-1z" fill="#a4a7b3"/>
+  <rect x="5" y="3.75" width="17.5" height="7.5" rx="1" ry="1" fill="#d8d9db"/>
+  <path d="m5 7.5h2.5v1.5c0 0.55-0.45 1-1 1h-1.5z" fill="#404660"/>
+  <path d="m5 5h1.5c0.55 0 1 0.45 1 1v2.38c0 0.55-0.45 1-1 1h-1.5z" fill="#2d3142"/>
+  <path d="m22.5 10h-1.5c-0.55 0-1-0.45-1-1v-1.5h2.5z" fill="#404660"/>
+  <path d="m22.5 9.37h-1.5c-0.55 0-1-0.45-1-1v-2.37c0-0.55 0.45-1 1-1h1.5z" fill="#2d3142"/>
+  <rect x="8.12" y="5" width="11.25" height="5" rx="1" ry="1" fill="#2d3142"/>
+  <path d="m8.75 5.62h10v2.75c0 0.55-0.45 1-1 1h-8c-0.55 0-1-0.45-1-1z" fill="#404660"/>
+  <rect x="8.75" y="2.5" width="10" height="5" rx="1" ry="1" fill="#2d3142"/>
+ </g>
+ <circle class="connection_point draggable" cx="2.5" cy="25" r="1" fill="#7b7d86" data-draggable-path="draggable1" data-pin-name="pin1"/>
+ <circle class="connection_point draggable" cx="25" cy="25" r="1" fill="#7b7d86" data-draggable-path="draggable2" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="22.5" y="-5" style="display: none;"/><text class="component-value component-text moveable-text locked" font-size="4.5px" x="22.5" y="0" style="display: none;"/></g><g data-source-id="wa9ap7huukmptn1twrq" data-source-name="Resistor 1k" data-width="10" data-height="35" class="component" id="part_9" transform="translate(2410,2242.5) scale(1,1) rotate(180,5,17.5)"><rect class="helper-box" x="1.2499899864196777" y="1.5" width="7.500010013580322" height="32" fill="none"/>
+  <metadata>
+		<handlevalueas>resistor-bands</handlevalueas>
+	</metadata>
+	<defs>
+    <clipPath id="clippath">
+      <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path class="draggable1" d="m5 7.5v-5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path class="draggable2" d="m5 27.5v5" fill="none" stroke="#7b7d86" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+  <path d="m2.25,7.5h5.5c.55228,0,1,.44772,1,1v2.51393c0,.15525-.03615.30836-.10557.44721l-1.03886,2.07771c-.06943.13886-.10557.29197-.10557.44721v7.02786c0,.15525.03614.30836.10557.44721l1.03885,2.07771c.06943.13886.10557.29197.10557.44721v2.51393c0,.55228-.44772,1-1,1H2.24999c-.55228,0-1-.44772-1-1v-2.51393c0-.15525.03615-.30836.10557-.44721l1.03886-2.07771c.06943-.13886.10557-.29197.10557-.44721v-7.02786c0-.15525-.03614-.30836-.10557-.44721l-1.03885-2.07771c-.06943-.13886-.10557-.29197-.10557-.44721v-2.51393c0-.55228.44772-1,1-1Z" fill="#fab66e"/>
+  <g clip-path="url(#clippath)" fill="none" stroke-miterlimit="10">
+    <line x1="8.75" x2="1.25" y1="25" y2="25" stroke="#fbdd71"/>
+    <g stroke-width="2">
+      <line class="colorband-1" x1="8.75" x2="1.25" y1="11.25" y2="11.25" stroke="#bf6030"/>
+      <line class="colorband-2" x1="8.75" x2="1.25" y1="15" y2="15" stroke="#2d3142"/>
+      <line class="colorband-3" x1="8.75" x2="1.25" y1="18.75" y2="18.75" stroke="#e86b59"/>
+    </g>
+  </g>
+  <circle class="connection_point draggable" data-draggable-path="draggable1" cx="5" cy="2.5" r="1" fill="#7b7d86" data-pin-name="pin1"/>
+  <circle class="connection_point draggable" data-draggable-path="draggable2" cx="5" cy="32.5" r="1" fill="#7b7d86" data-pin-name="pin2"/>
+<text class="component-reference component-text moveable-text locked" font-size="4.5px" x="10" y="16.5" style="display: none;">R?</text><text class="component-value component-text moveable-text locked" font-size="4.5px" x="10" y="21.5" style="display: none;">1000</text></g><g class="wireGroup wire-color-black" id="wireGroup_10" transform="translate(2375,2232.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H30" id="wireGroup_10-1"/><path class="wire" d="M30,0 c0,0 2.5,0 2.5,2.5" id="wireGroup_10-2"/><path class="wire" d="M32.5,2.5 L32.5,12.5" id="wireGroup_10-3"/></g><g class="wireGroup wire-color-red" id="wireGroup_15" transform="translate(2347.5,2355) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H20" id="wireGroup_15-1"/><path class="wire" d="M20,0 c0,0 2.5,0 2.5,2.5" id="wireGroup_15-2"/><path class="wire" d="M22.5,2.5 V42.5" id="wireGroup_15-3"/><path class="wire" d="M22.5,42.5 c0,0 0,2.5 2.5,2.5" id="wireGroup_15-4"/><path class="wire" d="M25,45 H65" id="wireGroup_15-5"/><path class="wire" d="M65,45 c0,0 2.5,0 2.5,-2.5" id="wireGroup_15-6"/><path class="wire" d="M67.5,42.5 L67.5,40" id="wireGroup_15-7"/></g><g class="wireGroup wire-color-black" id="wireGroup_16" transform="translate(2400, 2357.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V0" id="wireGroup_16-1"/><path class="wire" d="M0,0 c0,0 0,2.5 -2.5,2.5" id="wireGroup_16-2"/><path class="wire" d="M-2.5,2.5 L-25,2.5" id="wireGroup_16-3"/></g><g class="wireGroup selected wire-color-blue" id="wireGroup_17" transform="translate(2347.5, 2340) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H22.5" id="wireGroup_17-1"/><path class="wire" d="M22.5,0 c0,0 2.5,0 2.5,-2.5" id="wireGroup_17-2"/><path class="wire" d="M25,-2.5 V-62.5" id="wireGroup_17-3"/><path class="wire" d="M25,-62.5 c0,0 0,-2.5 2.5,-2.5" id="wireGroup_17-4"/><path class="wire" d="M27.5,-65 L60,-65" id="wireGroup_17-5"/></g><g class="wireGroup wire-color-red" id="wireGroup_18" transform="translate(2280, 2280) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 V-37.5" id="wireGroup_18-1"/><path class="wire" d="M0,-37.5 c0,0 0,-2.5 2.5,-2.5" id="wireGroup_18-2"/><path class="wire" d="M2.5,-40 L87.5,-40" id="wireGroup_18-3"/></g><g class="wireGroup wire-color-red" id="wireGroup_19" transform="translate(2415, 2297.5) scale(1,1) rotate(0,0,0)"><path class="wire" d="M0,0 H-37.5" id="wireGroup_19-1"/><path class="wire" d="M-37.5,0 c0,0 -2.5,0 -2.5,2.5" id="wireGroup_19-2"/><path class="wire" d="M-40,2.5 L-40,2.5" id="wireGroup_19-3"/></g></g><g transform="translate(52.5, 267.5)" opacity="0.35">
+ <g transform="translate(-2.5 -2.5)">
+  <g transform="matrix(.5 0 0 .5 68.316 2.5)">
+   <path d="m-125.48 22q-0.38133 0-0.58933-0.19067-0.19067-0.208-0.19067-0.58933v-10.66q0-0.38133 0.19067-0.572 0.208-0.208 0.58933-0.208h3.3453q2.964 0 4.576 1.56 1.612 1.56 1.612 4.5413 0 1.4907-0.41599 2.6347-0.39867 1.1267-1.196 1.9067-0.79733 0.78-1.9413 1.1787t-2.6347 0.39867zm0.64133-1.2133h2.6q1.2133 0 2.0973-0.312 0.90133-0.312 1.4907-0.91866 0.60667-0.60667 0.90133-1.5253 0.29467-0.936 0.29467-2.1493 0-2.444-1.196-3.6573-1.196-1.2307-3.588-1.2307h-2.6zm15.045 1.3693q-1.3347 0-2.3053-0.52-0.95333-0.53733-1.4907-1.508-0.52-0.97066-0.52-2.3227 0-1.3173 0.52-2.288 0.52-0.988 1.4213-1.5427 0.91867-0.55466 2.1147-0.55466 0.84933 0 1.5253 0.29467 0.676 0.27733 1.144 0.81466 0.48534 0.53733 0.728 1.3 0.26 0.76267 0.26 1.716 0 0.27733-0.156 0.416-0.156 0.12133-0.45066 0.12133h-6.032v-0.91866h5.7026l-0.27733 0.22533q0-0.936-0.27733-1.5773-0.27733-0.65866-0.81467-1.0053-0.51999-0.34667-1.3173-0.34667-0.88399 0-1.508 0.416-0.60667 0.39867-0.91867 1.1267-0.312 0.71067-0.312 1.664v0.104q0 1.5947 0.76267 2.4267 0.78 0.832 2.2013 0.832 0.58933 0 1.1613-0.156 0.58933-0.156 1.144-0.52 0.24266-0.156 0.43333-0.13867 0.208 0 0.32933 0.12133 0.12133 0.104 0.156 0.27733 0.052 0.156-0.0347 0.34667-0.0693 0.19067-0.29466 0.32933-0.572 0.416-1.352 0.64133t-1.5427 0.22533zm8.268 0q-0.78 0-1.5773-0.19067-0.78-0.19067-1.456-0.65866-0.17334-0.12133-0.24267-0.27733-0.0693-0.17333-0.052-0.32933 0.0347-0.17333 0.13867-0.29467 0.12133-0.12133 0.27733-0.13867 0.17333-0.03467 0.38133 0.06933 0.676 0.416 1.3 0.58933 0.64133 0.156 1.2653 0.156 0.988 0 1.4907-0.364 0.50267-0.364 0.50267-0.988 0-0.48533-0.32933-0.76266-0.32934-0.29467-1.04-0.45067l-1.5773-0.34667q-1.092-0.22533-1.6293-0.78-0.52-0.55466-0.52-1.4387 0-0.78 0.39866-1.3347 0.416-0.572 1.1613-0.884 0.74533-0.312 1.7333-0.312 0.76266 0 1.4387 0.208 0.69333 0.19067 1.248 0.624 0.17333 0.12133 0.22533 0.29467 0.06933 0.156 0.01733 0.32933-0.03467 0.156-0.156 0.27733-0.12133 0.104-0.29467 0.12133-0.17333 0.01733-0.364-0.104-0.52-0.34667-1.0573-0.50267-0.53734-0.17333-1.0573-0.17333-0.97067 0-1.4733 0.38133-0.50266 0.38133-0.50266 1.0053 0 0.48533 0.312 0.79733t0.97066 0.45067l1.5773 0.32933q1.1267 0.24267 1.6813 0.78 0.572 0.52 0.572 1.4213 0 1.144-0.91866 1.82-0.91867 0.676-2.444 0.676zm6.188-0.06933q-0.34667 0-0.52-0.19067-0.17333-0.208-0.17333-0.572v-7.0893q0-0.364 0.17333-0.55467t0.52-0.19067q0.32933 0 0.52 0.19067t0.19067 0.55467v7.0893q0 0.364-0.19067 0.572-0.17333 0.19067-0.52 0.19067zm0-10.539q-0.43333 0-0.676-0.22533-0.24267-0.24267-0.24267-0.64133 0-0.416 0.24267-0.624 0.24267-0.22533 0.676-0.22533 0.45067 0 0.676 0.22533 0.24267 0.208 0.24267 0.624 0 0.39867-0.24267 0.64133-0.22533 0.22533-0.676 0.22533zm7.0547 13.728q-0.91866 0-1.8027-0.22533-0.86666-0.208-1.5773-0.676-0.208-0.12133-0.27733-0.29467-0.052-0.17333-0.01733-0.34667 0.03467-0.156 0.156-0.29467 0.12133-0.12133 0.27733-0.156 0.17333-0.03467 0.34667 0.052 0.76266 0.468 1.456 0.64133t1.3693 0.17333q1.2307 0 1.8547-0.65866 0.64133-0.65867 0.64133-1.9067v-1.9587h0.17333q-0.26 1.0053-1.1093 1.5947-0.832 0.58933-1.9587 0.58933-1.1613 0-2.0107-0.52-0.84933-0.53733-1.3173-1.4907-0.45067-0.95333-0.45067-2.2013 0-0.936 0.26-1.6987 0.26-0.78 0.74533-1.3173 0.50267-0.55467 1.196-0.84933 0.71066-0.312 1.5773-0.312 1.144 0 1.976 0.58933 0.832 0.572 1.0747 1.56l-0.17333 0.208v-1.612q0-0.34667 0.17333-0.52 0.19067-0.19067 0.52-0.19067 0.34667 0 0.52 0.19067 0.17333 0.17333 0.17333 0.52v7.228q0 1.924-0.97066 2.8947-0.95333 0.988-2.8253 0.988zm-0.208-4.6107q0.81466 0 1.404-0.364 0.58933-0.38133 0.90133-1.0747 0.32933-0.69333 0.32933-1.6293 0-1.404-0.71066-2.2187-0.71066-0.832-1.924-0.832-0.79733 0-1.3867 0.38133-0.58933 0.364-0.91866 1.0573-0.312 0.676-0.312 1.612 0 1.404 0.71067 2.236 0.71066 0.832 1.9067 0.832zm7.332 1.456q-0.34667 0-0.52-0.19067t-0.17333-0.53733v-7.228q0-0.34667 0.17333-0.52 0.17333-0.19067 0.50266-0.19067 0.32933 0 0.50267 0.19067 0.19067 0.17333 0.19067 0.52v1.4907l-0.19067-0.208q0.364-1.0053 1.1787-1.508 0.832-0.52 1.9067-0.52 1.0053 0 1.664 0.364 0.676 0.364 1.0053 1.1093 0.32933 0.728 0.32933 1.8547v4.6453q0 0.34667-0.19067 0.53733-0.17333 0.19067-0.50267 0.19067-0.34667 0-0.53733-0.19067-0.17333-0.19067-0.17333-0.53733v-4.5587q0-1.1787-0.468-1.716-0.45067-0.55467-1.456-0.55467-1.1613 0-1.8547 0.728-0.676 0.71066-0.676 1.9067v4.1947q0 0.728-0.71066 0.728zm12.948 0.03467q-1.3347 0-2.3053-0.52-0.95333-0.53733-1.4907-1.508-0.52-0.97066-0.52-2.3227 0-1.3173 0.52-2.288 0.52-0.988 1.4213-1.5427 0.91866-0.55466 2.1147-0.55466 0.84933 0 1.5253 0.29467 0.676 0.27733 1.144 0.81466 0.48533 0.53733 0.728 1.3 0.26 0.76267 0.26 1.716 0 0.27733-0.156 0.416-0.156 0.12133-0.45067 0.12133h-6.032v-0.91866h5.7027l-0.27733 0.22533q0-0.936-0.27733-1.5773-0.27733-0.65866-0.81466-1.0053-0.52-0.34667-1.3173-0.34667-0.884 0-1.508 0.416-0.60667 0.39867-0.91866 1.1267-0.312 0.71067-0.312 1.664v0.104q0 1.5947 0.76266 2.4267 0.78 0.832 2.2013 0.832 0.58933 0 1.1613-0.156 0.58933-0.156 1.144-0.52 0.24267-0.156 0.43333-0.13867 0.208 0 0.32933 0.12133 0.12133 0.104 0.156 0.27733 0.052 0.156-0.03467 0.34667-0.06933 0.19067-0.29467 0.32933-0.572 0.416-1.352 0.64133-0.78 0.22533-1.5427 0.22533zm8.632 0q-1.1267 0-1.976-0.53733-0.832-0.53733-1.3-1.508-0.45067-0.988-0.45067-2.3227 0-1.352 0.45067-2.3227 0.468-0.988 1.3-1.508 0.84933-0.53733 1.976-0.53733 1.144 0 1.9587 0.572 0.81466 0.572 1.092 1.5427h-0.19067v-5.1653q0-0.34667 0.17333-0.52 0.19067-0.19067 0.53733-0.19067 0.32933 0 0.50267 0.19067 0.19067 0.17333 0.19067 0.52v11.024q0 0.34667-0.17333 0.53733t-0.52 0.19067q-0.32933 0-0.52-0.19067-0.17333-0.19067-0.17333-0.53733v-1.6467l0.19067 0.24267q-0.27733 0.988-1.1093 1.5773-0.81466 0.58933-1.9587 0.58933zm0.29467-1.1267q0.78 0 1.3693-0.38133 0.58933-0.38133 0.90133-1.1093 0.32933-0.728 0.32933-1.7507 0-1.5773-0.71066-2.4093-0.69333-0.832-1.8893-0.832-0.79733 0-1.3867 0.38133-0.572 0.364-0.90133 1.092-0.312 0.71066-0.312 1.768 0 1.56 0.71067 2.4093 0.71066 0.832 1.8893 0.832zm15.184 1.092q-0.312 0-0.50267-0.156-0.19067-0.17333-0.312-0.50266l-3.8307-10.937q-0.12133-0.364 0.052-0.60667 0.19067-0.26 0.58933-0.26 0.29467 0 0.468 0.156 0.17333 0.13867 0.29467 0.45067l3.588 10.521h-0.60666l3.6573-10.469q0.12133-0.32933 0.29467-0.48533 0.17333-0.17333 0.468-0.17333 0.27733 0 0.43333 0.17333 0.17333 0.156 0.29467 0.48533l3.6053 10.469h-0.53733l3.6227-10.521q0.08667-0.29467 0.26-0.45067 0.19067-0.156 0.48533-0.156 0.364 0 0.53733 0.24267 0.17333 0.24267 0.03467 0.624l-3.848 10.937q-0.12133 0.32933-0.312 0.50266-0.17333 0.156-0.50267 0.156-0.312 0-0.50266-0.156-0.17333-0.17333-0.312-0.50266l-3.484-10.036h0.38133l-3.5187 10.036q-0.12133 0.32933-0.29467 0.50266-0.17333 0.156-0.50267 0.156zm16.077-0.03467q-0.34667 0-0.52-0.19067-0.17333-0.208-0.17333-0.572v-7.0893q0-0.364 0.17333-0.55467t0.52-0.19067q0.32933 0 0.52 0.19067t0.19067 0.55467v7.0893q0 0.364-0.19067 0.572-0.17333 0.19067-0.52 0.19067zm0-10.539q-0.43333 0-0.676-0.22533-0.24267-0.24267-0.24267-0.64133 0-0.416 0.24267-0.624 0.24267-0.22533 0.676-0.22533 0.45067 0 0.676 0.22533 0.24267 0.208 0.24267 0.624 0 0.39867-0.24267 0.64133-0.22533 0.22533-0.676 0.22533zm6.708 10.608q-0.988 0-1.664-0.34667-0.65866-0.364-0.988-1.04-0.32933-0.69333-0.32933-1.6813v-4.42h-1.1613q-0.29467 0-0.45067-0.13867-0.156-0.156-0.156-0.416 0-0.26 0.156-0.39867 0.156-0.13867 0.45067-0.13867h1.1613v-1.9933q0-0.34667 0.19067-0.52 0.19067-0.19067 0.52-0.19067t0.50267 0.19067q0.19067 0.17333 0.19067 0.52v1.9933h2.184q0.29467 0 0.45066 0.13867 0.156 0.13867 0.156 0.39867 0 0.26-0.156 0.416-0.156 0.13867-0.45066 0.13867h-2.184v4.2813q0 0.988 0.416 1.508 0.416 0.50267 1.352 0.50267 0.32933 0 0.55467-0.06933 0.24267-0.06933 0.39867-0.06933 0.156-0.01733 0.26 0.104 0.104 0.12133 0.104 0.416 0 0.208-0.08667 0.38133-0.06933 0.17333-0.26 0.24267-0.208 0.06933-0.55466 0.12133-0.32933 0.06933-0.60667 0.06933zm3.4859-0.03467q-0.34667 0-0.52-0.19067t-0.17333-0.53733v-11.024q0-0.34667 0.17333-0.52 0.17333-0.19067 0.52-0.19067 0.32933 0 0.52 0.19067 0.19067 0.17333 0.19067 0.52v5.0787h-0.22533q0.364-1.0053 1.1787-1.508 0.832-0.52 1.9067-0.52 1.0053 0 1.664 0.364 0.676 0.364 1.0053 1.1093 0.32933 0.728 0.32933 1.8547v4.6453q0 0.34667-0.19067 0.53733-0.17333 0.19067-0.50267 0.19067-0.34667 0-0.53733-0.19067-0.17333-0.19067-0.17333-0.53733v-4.5587q0-1.1787-0.468-1.716-0.45067-0.55467-1.456-0.55467-1.1613 0-1.8547 0.728-0.676 0.71066-0.676 1.9067v4.1947q0 0.728-0.71066 0.728z" fill="#2d3142" aria-label="Designed With"/>
+   <path d="m16 3.2c-7.0692 0-12.8 5.7308-12.8 12.8 0 7.0692 5.7308 12.8 12.8 12.8 0.8837 0 1.6 0.7163 1.6 1.6 0 0.8836-0.7163 1.6-1.6 1.6-8.8366 0-16-7.1635-16-16 0-8.8366 7.1634-16 16-16 0.8837 0 1.6 0.71634 1.6 1.6 0 0.88366-0.7163 1.6-1.6 1.6z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m19.121 31.696c-1.0106 0.1999-2.0543 0.3045-3.1208 0.3045-0.8837 0-1.6-0.7163-1.6-1.6s0.7163-1.6 1.6-1.6c0.8569 0 1.6926-0.084 2.4998-0.2437 0.8669-0.1715 1.7086 0.3922 1.8801 1.2591s-0.3922 1.7086-1.2591 1.8801zm3.5505-2.8308c-0.4916-0.7343-0.2948-1.7281 0.4395-2.2197 1.3965-0.935 2.5992-2.1377 3.5342-3.5342 0.4916-0.7343 1.4854-0.9311 2.2197-0.4395 0.7342 0.4916 0.931 1.4854 0.4394 2.2197-1.1677 1.7441-2.669 3.2454-4.4131 4.4131-0.7343 0.4916-1.7281 0.2948-2.2197-0.4394zm7.1441-8.4848c-0.8669-0.1715-1.4306-1.0132-1.2591-1.8801 0.1597-0.8072 0.2437-1.6429 0.2437-2.4998s-0.084-1.6926-0.2437-2.4998c-0.1715-0.8669 0.3922-1.7086 1.2591-1.8801s1.7086 0.3922 1.8801 1.2591c0.1999 1.0106 0.3045 2.0543 0.3045 3.1208s-0.1046 2.1102-0.3045 3.1208c-0.1715 0.8669-1.0132 1.4306-1.8801 1.2591zm-0.9507-11.051c-0.7343 0.4916-1.7281 0.29485-2.2197-0.43944-0.935-1.3966-2.1377-2.5993-3.5342-3.5342-0.7343-0.49159-0.9311-1.4854-0.4395-2.2196 0.4916-0.7343 1.4854-0.93104 2.2197-0.43944 1.7441 1.1677 3.2454 2.669 4.4131 4.4131 0.4916 0.73429 0.2948 1.7281-0.4394 2.2197zm-8.4848-7.1441c-0.1715 0.86685-1.0132 1.4306-1.8801 1.2591-0.8072-0.1597-1.6429-0.24367-2.4998-0.24367-0.8836 0-1.6-0.71635-1.6-1.6 0-0.88366 0.7164-1.6 1.6-1.6 1.0665 9.324e-8 2.1102 0.10457 3.1208 0.30451 0.8669 0.17149 1.4306 1.0132 1.2591 1.8801z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m16.361 10.4c-3.3665 0-5.9606 2.5799-5.9606 5.5999 0 3.0201 2.5941 5.6 5.9606 5.6 1.6932 0 3.207-0.6609 4.2845-1.7076 0.6339-0.6157 1.6468-0.601 2.2625 0.0328 0.6158 0.6338 0.6011 1.6468-0.0327 2.2625-1.6669 1.6192-3.9775 2.6123-6.5143 2.6123-4.9847 0-9.1606-3.8671-9.1606-8.8 0-4.9328 4.1759-8.8 9.1606-8.8 2.5368 0 4.8474 0.99313 6.5143 2.6124 0.6338 0.6157 0.6485 1.6287 0.0327 2.2625-0.6157 0.6338-1.6286 0.6485-2.2625 0.0328-1.0775-1.0467-2.5913-1.7076-4.2845-1.7076z" clip-rule="evenodd" fill="#f7a541" fill-rule="evenodd"/>
+   <path d="m49.551 23c-3.6394 0-6.5509-2.7762-6.5509-6.8414 0-4.0651 2.9115-6.8413 6.5509-6.8413 1.9921 0 3.4096 0.77342 4.4439 1.9433 0.1533 0.1587 0.2299 0.3966 0.2299 0.6346 0 0.5156-0.4023 0.932-0.9003 0.932-0.2873 0-0.5363-0.119-0.6896-0.3173-0.747-0.8725-1.8388-1.4277-3.0839-1.4277-2.5859 0-4.578 2.1019-4.578 5.0764 0 2.9547 1.9921 5.0765 4.578 5.0765 1.2451 0 2.3369-0.5552 3.1031-1.4277 0.1532-0.1983 0.3831-0.3173 0.6704-0.3173 0.498 0 0.9003 0.4164 0.9003 0.932 0 0.238-0.0766 0.4759-0.2299 0.6346-1.0535 1.1699-2.4518 1.9433-4.4439 1.9433z" fill="#2d3142"/>
+   <path d="m57.192 11.28c-0.5938 0-1.111-0.5156-1.111-1.1502 0-0.63455 0.5172-1.1303 1.111-1.1303 0.613 0 1.111 0.49575 1.111 1.1303 0 0.6346-0.498 1.1502-1.111 1.1502zm0 11.581c-0.4597 0-0.8428-0.3966-0.8428-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.862-0.8923 0.4597 0 0.8619 0.3966 0.8619 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8811 0.8924z" fill="#2d3142"/>
+   <path d="m64.957 13.026c0.4981 0 0.7279 0.3966 0.7279 0.8527 0 0.4164-0.3065 0.7734-0.9003 0.8527-0.7662 0.0793-1.8388 0.6544-2.2411 1.3682v5.8697c0 0.4958-0.4022 0.8924-0.8619 0.8924-0.4789 0-0.862-0.3966-0.862-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.8428-0.8923 0.4789 0 0.8811 0.3966 0.8811 0.8923v0.6743c0.5172-0.7139 1.2451-1.3088 1.9155-1.527 0.2107-0.0594 0.3448-0.0991 0.498-0.0991z" fill="#2d3142"/>
+   <path d="m66.717 17.963c0-2.8754 1.9154-5.017 4.712-5.017 1.3217 0 2.2411 0.4362 2.9499 1.1105 0.1532 0.1388 0.2681 0.3767 0.2681 0.5949 0 0.456-0.3447 0.813-0.7662 0.813-0.2107 0-0.383-0.0793-0.5171-0.1983-0.5364-0.5156-1.1302-0.7337-1.858-0.7337-1.8197 0-2.9882 1.4476-2.9882 3.4306s1.1685 3.4504 2.9882 3.4504c0.7278 0 1.3216-0.2181 1.858-0.7337 0.1149-0.119 0.3064-0.1983 0.498-0.1983 0.4405 0 0.7853 0.3569 0.7853 0.7932 0 0.2379-0.1149 0.4759-0.2681 0.6147-0.7088 0.6742-1.6282 1.1105-2.9499 1.1105-2.7966 0-4.712-2.1615-4.712-5.0368z" fill="#2d3142"/>
+   <path d="m83.882 13.085c0.4789 0 0.8811 0.3966 0.8811 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8619 0.8924-0.4789 0-0.862-0.3966-0.862-0.8924v-0.5155c-0.6896 0.7932-1.858 1.5467-3.2946 1.5467-1.9729 0-2.9498-1.0312-2.9498-3.0538v-5.9689c0-0.4957 0.3831-0.8923 0.8619-0.8923 0.4597 0 0.862 0.3966 0.862 0.8923v5.374c0 1.5864 0.7662 2.0623 1.9538 2.0623 1.0726 0 2.0495-0.6346 2.5667-1.3484v-6.0879c0-0.4957 0.3831-0.8923 0.8428-0.8923z" fill="#2d3142"/>
+   <path d="m88.337 11.28c-0.5938 0-1.111-0.5156-1.111-1.1502 0-0.63455 0.5172-1.1303 1.111-1.1303 0.6129 0 1.111 0.49575 1.111 1.1303 0 0.6346-0.4981 1.1502-1.111 1.1502zm0 11.581c-0.4597 0-0.8428-0.3966-0.8428-0.8924v-7.9915c0-0.4957 0.3831-0.8923 0.8619-0.8923 0.4598 0 0.862 0.3966 0.862 0.8923v7.9915c0 0.4958-0.4022 0.8924-0.8811 0.8924z" fill="#2d3142"/>
+   <path d="m95.547 21.295c0.4406 0 0.7279 0.3173 0.7279 0.7536 0 0.3371-0.1724 0.575-0.4406 0.6742-0.3256 0.1586-0.7662 0.2776-1.3217 0.2776-1.4557 0-2.2027-0.8527-2.2027-2.3598v-5.8895h-0.8812c-0.4022 0-0.7661-0.3569-0.7661-0.7932 0-0.4164 0.3639-0.7734 0.7661-0.7734h0.8812v-1.8243c0-0.4958 0.3831-0.8924 0.8619-0.8924 0.4597 0 0.862 0.3966 0.862 0.8924v1.8243h1.2067c0.4214 0 0.7662 0.357 0.7662 0.7734 0 0.4363-0.3448 0.7932-0.7662 0.7932h-1.2067v5.4929c0 0.6742 0.3065 1.17 0.9003 1.17 0.3256 0 0.4405-0.119 0.6129-0.119z" fill="#2d3142"/>
+   <path d="m108.81 23c-3.639 0-6.551-2.7762-6.551-6.8414 0-4.0651 2.912-6.8413 6.551-6.8413 1.992 0 3.409 0.77342 4.444 1.9433 0.153 0.1587 0.23 0.3966 0.23 0.6346 0 0.5156-0.403 0.932-0.901 0.932-0.287 0-0.536-0.119-0.689-0.3173-0.747-0.8725-1.839-1.4277-3.084-1.4277-2.586 0-4.578 2.1019-4.578 5.0764 0 2.9547 1.992 5.0765 4.578 5.0765 1.245 0 2.337-0.5552 3.103-1.4277 0.153-0.1983 0.383-0.3173 0.67-0.3173 0.498 0 0.901 0.4164 0.901 0.932 0 0.238-0.077 0.4759-0.23 0.6346-1.054 1.1699-2.452 1.9433-4.444 1.9433z" fill="#2d3142"/>
+   <path d="m119.32 12.946c2.011 0 3.716 0.9122 3.716 3.3513v5.6713c0 0.4958-0.402 0.8924-0.862 0.8924s-0.862-0.3966-0.862-0.8924v-0.2776c-0.709 0.8527-1.781 1.3088-3.026 1.3088-1.533 0-3.218-1.0708-3.218-3.1728 0-2.1813 1.666-3.1331 3.218-3.1331 1.245 0 2.317 0.4164 3.026 1.2691v-1.5864c0-1.1898-0.939-1.9037-2.26-1.9037-0.843 0-1.571 0.2578-2.28 0.8328-0.115 0.0794-0.268 0.1389-0.421 0.1389-0.383 0-0.69-0.3372-0.69-0.7338 0-0.2379 0.115-0.456 0.288-0.575 0.977-0.8131 2.088-1.1898 3.371-1.1898zm-0.383 8.8045c0.958 0 1.858-0.3768 2.375-1.0906v-1.6261c-0.517-0.7139-1.417-1.0907-2.375-1.0907-1.245 0-2.126 0.7734-2.126 1.9037s0.881 1.9037 2.126 1.9037z" fill="#2d3142"/>
+   <path d="m130.8 12.946c1.954 0 2.969 1.0708 2.969 3.0935v5.9291c0 0.4958-0.402 0.8924-0.881 0.8924-0.46 0-0.843-0.3966-0.843-0.8924v-5.3342c0-1.5864-0.785-2.102-1.973-2.102-1.073 0-2.049 0.6742-2.547 1.3881v6.0481c0 0.4958-0.403 0.8924-0.862 0.8924-0.479 0-0.862-0.3966-0.862-0.8924v-7.9915c0-0.4957 0.383-0.8923 0.842-0.8923 0.479 0 0.882 0.3966 0.882 0.8923v0.5354c0.632-0.7535 1.858-1.5665 3.275-1.5665z" fill="#2d3142"/>
+   <path d="m143.38 13.085c0.479 0 0.862 0.3966 0.862 0.8923 0 0.119-0.038 0.238-0.077 0.357l-3.045 7.6742c-0.211 0.5156-0.69 0.8527-1.226 0.8527-0.575 0-1.054-0.3371-1.245-0.8527l-3.065-7.6941c-0.038-0.0991-0.058-0.2181-0.058-0.3371 0-0.4957 0.364-0.8923 0.843-0.8923 0.345 0 0.69 0.2379 0.805 0.5552l2.701 7.0992 2.7-7.0992c0.115-0.3173 0.441-0.5552 0.805-0.5552z" fill="#2d3142"/>
+   <path d="m149.74 12.946c2.011 0 3.716 0.9122 3.716 3.3513v5.6713c0 0.4958-0.403 0.8924-0.862 0.8924-0.46 0-0.862-0.3966-0.862-0.8924v-0.2776c-0.709 0.8527-1.782 1.3088-3.027 1.3088-1.532 0-3.218-1.0708-3.218-3.1728 0-2.1813 1.667-3.1331 3.218-3.1331 1.245 0 2.318 0.4164 3.027 1.2691v-1.5864c0-1.1898-0.939-1.9037-2.261-1.9037-0.842 0-1.57 0.2578-2.279 0.8328-0.115 0.0794-0.268 0.1389-0.421 0.1389-0.384 0-0.69-0.3372-0.69-0.7338 0-0.2379 0.115-0.456 0.287-0.575 0.977-0.8131 2.088-1.1898 3.372-1.1898zm-0.384 8.8045c0.958 0 1.858-0.3768 2.376-1.0906v-1.6261c-0.518-0.7139-1.418-1.0907-2.376-1.0907-1.245 0-2.126 0.7734-2.126 1.9037s0.881 1.9037 2.126 1.9037z" fill="#2d3142"/>
+   <path d="m155.89 21.929c-0.192-0.1388-0.326-0.3768-0.326-0.6346 0-0.4362 0.326-0.7734 0.747-0.7734 0.153 0 0.306 0.0595 0.421 0.1389 0.709 0.5354 1.629 0.9121 2.605 0.9121 1.303 0 1.993-0.5552 1.993-1.3682 0-0.9519-1.054-1.2692-2.242-1.5468-1.57-0.3767-3.409-0.813-3.409-2.8753 0-1.5269 1.264-2.8357 3.524-2.8357 1.284 0 2.299 0.3966 3.084 0.9915 0.173 0.1388 0.307 0.3371 0.307 0.5949 0 0.3966-0.326 0.7337-0.709 0.7337-0.134 0-0.287-0.0595-0.383-0.1388-0.594-0.4561-1.398-0.7337-2.279-0.7337-1.169 0-1.897 0.4759-1.897 1.2493 0 0.8328 0.996 1.1104 2.146 1.3881 1.609 0.3767 3.524 0.8328 3.524 3.034 0 1.6458-1.303 2.9348-3.735 2.9348-1.284 0-2.433-0.3371-3.371-1.0708z" fill="#2d3142"/>
+  </g>
+ </g>
+</g></svg>
